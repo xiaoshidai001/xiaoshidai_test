@@ -1,0 +1,1712 @@
+teamviewer：家里：1311067922 密码：362199
+            公司：509244689  密码：362199
+向日葵：家里：320545726  验证码：3621
+        公司：537404460  验证码：3621
+
+SHA-1: 1200becd10dc180b51aac6a2617aeaad115e02fb
+
+【运营参谋】【自助提数】条件筛选优化 https://www.tapd.cn/22079351/s/2047743 --story=1299572 --user=王帅wangshuai3
+
+打开文件夹： explorer .
+查看版本git版本： git --version
+配置共享文件夹：
+folders:
+    - map: D:\Code\admin
+      to: /home/vagrant/code
+
+常用的几个vagrant命令： https://www.cnblogs.com/think-a-lot/p/7754328.html
+常见web攻击总结 https://www.cnblogs.com/morethink/p/8734103.html
+
+
+Request URL: https://bibeta.banggood.com/index.php?
+
+com=index&t=display&act=getLine&is_api=1&domain=1&&field=uv&site_port=&start_date=2019-7-1&end_date=2019-7-1&contrast=2&contrast_sd=&contrast_ed=&upup=true
+
+https://bibeta.banggood.com/#/datacube/index?myostoken=6169048a544896c6431284e4d8c80853
+
+D:\work_git\dc\applications\datacube\components\com_index
+
+kylin  Apache Spark   Apache Hadoop
+
+github phalcon  php-fpm  swoole实现原理，fast-cgi底层  两年半的经验如果会redis monogdb rabbitmq或者kafka ，搜索引擎sphinx 或者 es.要12K的话 还是很容易找到的.
+最流行的就是storm spark sql hadoop---- kafka python java R html(前几个大数据必备)
+swoole和workerman了啊
+帖子也100个回复了，我把最近面试的十个公司的问题整理出来给大家参考一下
+php方面的：
+抽象类接口类问题、关键字和魔术方法问题、curl&fopen系列问题、设计模式（工厂单例）&依赖注入系列问题、php闭包&类型约束问题、正则（必考）
+mysql：
+索引问题（必问），BTREE聚簇索引原理，慢查询解决流程，MySQL配置文件具体参数，主从配置
+Apache：
+Apache配置文件参数问题，fast-cgi，php-fpm相关问题
+linux：
+vi命令类问题（必问），ps，pstree，top，iostatus,netstat,|
+http：
+请求码、http头、长短链接区别、tcp&udp区别
+
+·Marisa: 还有redis的，redis数据类型，redis队列怎么做，redis数据如何保持和MySQL一致性等
+
+撸主 swoole，长短链接socket通信协议的，关于Nginx，fast-cgi层面的，关于数据库主从的 都会了吗  
+
+
+array(10) { ["start_date"]=> string(8) "2019-7-1" ["end_date"]=> string(8) "2019-7-1" ["domain"]=> string(1) "1" ["site"]=> array(0) { } ["field"]=> string(2) "uv" ["site_port"]=> string(0) "" ["index"]=> string(0) "" ["contrast"]=> int(2) ["contrast_sd"]=> string(0) "" ["contrast_ed"]=> string(0) "" }
+
+
+
+第三条 公司实行“单双休制”，具体作息时间为：
+（1）周一至周五上班时间为：09：00—12：00；13：30—18：00 （午休时
+间为 12:00—13:30，下午茶时间为 15:30-15:45）
+（2）单休：周六上班时间为：09：00—12：00；13：30—15：30 ，周日休
+息；双休：周六、日休息
+
+刘骏斌：xjssljb@163.com   363185889
+
+玩转Git入门篇：https://www.cnblogs.com/guanzhyan/p/8996489.html
+Git快速入门：https://www.cnblogs.com/guanzhyan/p/8996607.html
+Git客户端(TortoiseGit)基本使用详解:https://www.cnblogs.com/xuwenjin/p/8573603.html
+
+使用explain优化sql技巧：https://blog.csdn.net/zc474235918/article/details/74923614
+
+腾讯企业邮箱（https://exmail.qq.com/）：wangshaui3@banggood.com  密码Bg2018
+棒谷协同（https://erpv2.banggood.cn/）：wangshaui3@banggood.com  密码ws362...9
+
+
+查询数据库关键字：session  order > dc_orders  purchase dc_basket dc_session_action 
+缓存查询类：D:\work_git\dc\zc_core\banggood\refactor\pagequery\datacube\complex
+常用控制器：D:\work_git\dc\applications\datacube\components\com_index
+
+
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=display&act=getLine&is_api=1&domain=1&&field=uv&site_port=&start_date=2019-6-28&end_date=2019-6-28&contrast=2&contrast_sd=&contrast_ed=&upup=true
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 172.16.13.1:443
+Referrer Policy: no-referrer-when-downgrade
+
+小天神
+
+union all   范围 BETWEEN   》  <、<=、>=、>   》  in   》 or
+
+composer install : composer update  start   020-400-880-9985
+
+select `id`,`subject`,(SUM(CASE WHEN `achievement` BETWEEN 60 AND 100 THEN 1 ELSE 0 END)/COUNT(*)) as ids from `score_sheet` group by `subject`;
+
+select id,subject,(select COUNT(id) from `score_sheet` where achievement > 60 and subject=s.subject GROUP BY `subject`)/(select COUNT(id) from `score_sheet` 
+where subject=s.subject GROUP BY `subject`) from `score_sheet` s group by subject;
+
+SELECT SC.COURSE_NO,(SUM(CASE
+              WHEN CORE BETWEEN 60 AND 100 THEN
+              ELSE
+              END)/COUNT(*))*100||'%' 及格率
+FROM HAND_STUDENT_CORE SC
+GROUP BY SC.COURSE_NO
+
+round(SUM(customer_number_7days) / SUM(customers), 4)*100  AS sevenOrderRate
+
+https://www.tapd.cn/
+https://myos.banggood.com/#/
+
+逻辑文档：
+魔方&参谋统计逻辑 - 报表         https://docs.qq.com/doc/DYkJVVlhCR2FSSHRC
+魔方&参谋统计逻辑 - 用户，商品   https://docs.qq.com/doc/DYnZwQWxZeFNueGJW
+魔方&参谋统计逻辑 - 提数，转化   https://docs.qq.com/doc/DYkpYUnBQRnlCVGtD
+
+棒谷运维平台（测试服）：http://bibeta.banggood.com/#/datacube/index
+棒谷运维平台：https://ops.banggood.com/dashboard/
+棒谷运维平台：https://ops.banggood.com/mysql_tools/permissions/add
+
+棒谷运营系统：https://myos.banggood.com/#/
+
+运营参谋 -> 报表 -> 综合统计报表：http://bibeta.banggood.com/#/datacube/index
+
+测试数据库：
+192.168.6.240 3306     root           bg43491616
+192.168.4.162 3306     banggood_lan   bglan23@#2252
+主要数据库：datacube
+
+主要项目文件：D:\work_git\dc\applications\datacube\components\com_crontab
+项目入口文件：D:\work_git\dc\applications\datacube\index.php
+
+> git clone https://wangshuai@g.banggood.com/banggood/dc.git
+$ git remote add origin https://wangshuai@g.banggood.com/banggood/dc.git
+
+src="https://bi.banggood.com/#/datacube/index?myostoken=62cd98af34e15b8cc8b67fda62c0584c"
+
+
+
+mysql 缓存应用：https://www.cnblogs.com/eyesfree/p/7232559.html 
+Git下载安装及设置详细教程:https://www.jianshu.com/p/a152f82c5e4a
+阿里巴巴Java开发手册1.4.0 ：https://blog.csdn.net/xinkongabc/article/details/82422099
+Laravel 完整开源项目大全 https://blog.csdn.net/qq_38568388/article/details/79384078
+Laravel 从入门到精通系列教程 https://laravelacademy.org/laravel-tutorial-5_7
+window下安装composer和laravel https://www.cnblogs.com/itobylove/p/5809774.html
+免费爬墙神器 蓝灯 lantern 3.6.3 :http://macyoyo.cn/html/110.html
+Laravel自学第一课：laravel下载与安装 https://www.cnblogs.com/hellobook/p/5036128.html
+
+vim常用命令总结 （转):https://blog.csdn.net/lang_a/article/details/81583236
+
+Laravel 官网 https://laravel.com/
+Laravel China 中文社区 https://laravel-china.org/
+Laravel 学院 http://laravelacademy.org/
+golaravel 中文社区 http://www.golaravel.com/
+Laravel 5.8 中文文档 https://learnku.com/docs/laravel/5.8
+
+人力资源管理信息系统(Ver5.19) ：http://www.hezhubi.com/mysoft
+
+牛逼的人，很早就开始牛逼了：https://mp.weixin.qq.com/s/IfrV9pyMieyE3EhlYNI0fA
+
+linux学习日志：为什么程序员要会linux:https://www.jianshu.com/p/5020fbd76d0c 
+鸟哥私房菜：
+
+laravel速查表：https://learnku.com/docs/laravel-cheatsheet/5.8
+PHP四大主流框架的优缺点总结：https://blog.csdn.net/qq_16030133/article/details/81067544
+Laravel的中大型项目构架：https://blog.csdn.net/m0_37803704/article/details/80785166
+提高 Laravel 框架性能 10 倍以上: https://blog.csdn.net/qq_33855133/article/details/72877665
+关系型数据库和非关系型数据库的区别:https://www.cnblogs.com/wuyepeng/p/9744393.html
+Laravel 快速入门 ：https://blog.csdn.net/example440982/article/details/86708165#_141
+ [ Laravel 5.8 文档 ] 快速入门： https://laravelacademy.org/post/19426.html
+TP测试链接：http://tp5.com/index.php/index/user/add.html
+TP5框架完整学习笔记：https://www.jianshu.com/p/7dd18927dd9a
+mysql优化原理：https://www.cnblogs.com/liujiacai/p/7605612.html
+TP3和TP5区别：https://blog.csdn.net/qq_41846563/article/details/81234036
+php菜鸟教程：https://www.runoob.com/php/php-tutorial.html
+php中文网：http://www.php.cn/
+php自学网：http://www.zixuephp.net/
+快速入门Git教程：http://www.php.cn/course/78.html
+git 快速入门教程：http://www.php.cn/git/git-branch.html
+PHP-FPM详解:https://www.cnblogs.com/followyou/p/9460058.html
+
+http://www.pervster.com/free-porn   https://uvw444.club/home/super
+血管炎治疗方法： https://zhidao.baidu.com/question/2265830600050188148.html 
+
+阿里面试：
+自我介绍
+hashMap和ConcurrentHashMap区别x
+jdk中锁的实现原理
+volatile的使用场景
+threadLocal怎么实现？什么时候会用到？
+
+Corp_info 公司信息表（关联 corp_id  corp_num）
+Corp_tkts 订单预定表 （关联 corp_id  corp_num）
+Corp_ticket 订单详情表 （关联订单号 行程单 corp_id）
+
+216分销账号：wbmrrk001    密码 skyechow77
+
+函数&get_op_type
+$Corp_type eq "T" 中心
+$Corp_type eq "A" && $Sales_type eq "A" 直属营业部
+$Corp_type eq "A" && $Sales_type eq "B" 非直属营业部
+$Corp_type eq "A" && $Sales_type ne "A" && $Sales_type ne "B" 代理
+
+sql技术：过滤请求，无非是做权限、防攻击、限流、打点。  应用层也可以做。   这是我目前想到的。希望对你有帮助
+
+div弹窗： https://blog.csdn.net/weixin_37580235/article/details/82291028
+
+github（git代码托管平台）：https://github.com/  账号:xiaoshidai001 密码：abc362...26 邮箱：1137078697@qq.com
+banggood内网git： wangshuai 王帅  密码：ws362..9  邮箱：wangshuai3@banggood.com
+
+
+
+
+我的git库：https://github.com/xiaoshidai001/xiaoshidai_test
+综合技术交流： https://blog.csdn.net/ccg_201216323/article/details/56486036
+
+https://github.com/schacon/grit.git
+
+git clone git://github.com/xiaoshidai001/xiaoshidai_test.git
+
+GitHub 的分支创建与合并 https://www.cnblogs.com/horanly/p/6265182.html
+
+GitHub 的分支创建与合并 https://www.cnblogs.com/leilei0327/p/8688244.html
+
+
+$git clone git@github.com:username/myNCCL.git  
+      git://github.com/xiaoshidai001/xiaoshidai_test.git
+
+$git clone git@github.com/xiaoshidai001/xiaoshidai_test.git
+
+$git clone git@github.com:username/myNCCL.git 
+
+$git clone git://github.com/xiaoshidai001/xiaoshidai_test.git
+
+
+
+win10系统永久激活：https://baijiahao.baidu.com/s?id=1621144151536086381&wfr=spider&for=pc
+mysql的事务：https://www.cnblogs.com/ahaii/p/6214261.html
+国外服务器访问慢解决办法：https://blog.csdn.net/doctor_who2004/article/details/40465103
+十种常用的设计模式 https://www.cnblogs.com/yueguanguanyun/p/9584501.html
+php的socket通信 https://www.cnblogs.com/aipiaoborensheng/p/6708963.html
+云服务器搭建属于自己的VPN http://www.goldapple.name/blog/?action=show&id=1583
+Redis消息队列（含源码） https://blog.csdn.net/qq_34212276/article/details/78455004
+mysql 不同索引的区别和适用情况总结：
+MySQL索引底层实现原理 https://www.cnblogs.com/boothsun/p/8970952.html
+PHP开发必备软件（个人意见）https://blog.csdn.net/gwz1196281550/article/details/80264191
+RocketMQ与kafka对比（18项差异）：http://jm.taobao.org/2016/03/24/rmq-vs-kafka/
+腾讯企业QQ:账号：wangs@skyecho.com 密码：Abc36。。。
+
+sybase -master  => ctninfo =>dbo =>表：第一个 Account_change
+
+docker(环境)   trait（代码继承管理器）    upsource（代码审阅工具）
+
+公司电脑：向日葵：757086598  验证码6460
+
+数据库链接地址：
+地址 121.201.114.216
+端口 5000
+账号：test_user2  密码：Wt9#2L@vrTmz5Ymqbvd
+账号：test_user 新密码：At7#9L@vrTmzP5KRZERC
+
+包三餐、住宿补贴、固定13薪+年终奖
+职位描述
+工作职责
+﻿1、负责Web后端系统架构的建设及优化 ；
+2、负责核心模块的架构设计及实现 ； 
+任职要求
+﻿1、本科及以上学历，计算机相关专业，拥有扎实的计算机基础理论知识；
+2、具有PHP全栈开发设计经验，有良好的设计及编码能力； 
+3、掌握一些常见场景设计，如消息队列、缓存、高并发、高可用、高负载等； 
+4、熟悉tcp/ip、http、websocket、dns等协议，能熟练使用抓包工具定位问题； 
+5、熟练使用nginx、apache、haproxy、lvs等开源软件；
+加分项 
+1、掌握golang/java等其他一种后端开发语言 
+2、熟悉JS，了解前端相关工具链 
+3、深度使用过 swoole/openresty 等开源Web解决方案 
+4、阅读过PHP源码，熟练开发PHP扩展 
+5、有Web后端模块化、微服务化经验
+
+职位描述
+工作职责
+﻿1、参与需求讨论，对网站需求进行详细分析，并提出总体设计，评估潜在风及相应解决措施 
+ 2、根据公司技术文档规范编写相应的技术文档， 编制项目文档等  
+3、负责游戏运营平台、用户中心、充值中心、礼包中心，游戏官网、论坛，广告分析后台、数据后台等系统的功能开发和维护，并不断提高优化系统的性能、稳定性、可扩展性 
+ 4、负责云接入项目业务要求的研发实现 
+ 5、参与后端基础服务的架构设计和实现 
+ 6、协助解决各种技术问题
+任职要求
+﻿﻿1.本科及以上学历，计算机相关专业者优先 
+2.有一年左右以PHP为主的中型或大型互联网产品软件的开发及维护工作经验 
+3.熟悉一到两种常用PHP框架（laravel、CI、Zend Framework、ThinkPHP、Yaf等）  
+4.熟悉MySQL数据库，拥有优秀的数据库设计能力，对数据库的基本理论及其内部实现机制有比较深刻的理解 
+5.熟悉Linux/Unix，在其上有丰富的开发经验 
+6.对服务器端程序的部署、架构、调优有一定的了解 
+7.有强烈的上进心和求知欲，善于学习新事物 
+8.有很强的发现问题、分析问题和解决问题的能力 9
+.善于沟通和逻辑表达，良好的团队合作精神和积极主动的沟通意识
+
+小太阳测试系统地址 http://121.201.114.216，先看测试系统，了解下业务模块和流程
+账号：wangshuai   密码：1305wang19
+
+小太阳项目管理登录地址：http://www1.skyecho.com/
+账号：wangshuai1  密码：hh20192019       1305wang19
+
+腾讯云答疑：https://cloud.tencent.com/developer/information/php%E7%AB%99%E5%86%85%E6%90%9C%E7%B4%A2%E5%AE%9E%E7%8E%B0
+
+腾讯企业邮箱： https://exmail.qq.com/cgi-bin/frame_html?sid=oxKvltIGK8YdIAtX,2&r=bdbacac155a682ff9ab66e68566b3b13
+账号：wangs@skyecho.com  密码：Abc362...
+
+5大主流数据库比较：https://sjmz30071360.iteye.com/blog/2302290
+虚拟主机配置：https://blog.csdn.net/weisubao/article/details/43536723
+多个虚拟主机配置：https://blog.csdn.net/qq_38125058/article/details/81186226
+Apache 配置虚拟主机三种方式：https://www.cnblogs.com/xiaoqian1993/p/6063375.html
+
+《白帽子讲Web安全》学习笔记-安全攻击：https://www.cnblogs.com/edisonchou/p/edc_web_security_foundation_notes.html
+perl 教程： https://www.runoob.com/perl/perl-variables.html
+十大排序算法：https://blog.csdn.net/hellozhxy/article/details/79911867
+TCP、UDP、HTTP、HTTPS之前的区别 https://www.cnblogs.com/shmilynanmei/p/9033877.html
+perl第三方插件加载包地址：www.cpan.org
+perl官网：www.perl.org
+
+127.0.1.1 localhost homestead
+
+impala是什么，这么用的，redux是什么，你用过吗
+
+HTTP抓包软件：charles破解版特色 :https://blog.csdn.net/weixin_42840933/article/details/84032681
+微信分享功能：https://www.cnblogs.com/zhengxu/articles/6743301.html
+
+find / -name nginx.conf
+
+/etc/nginx/sites-enabled/homestead.test
+/etc/nginx/sites-available/homestead.test
+
+Linux常用命令大全：https://www.cnblogs.com/yjd_hycf_space/p/7730690.html
+CentOS 7 常用命令大全 https://blog.csdn.net/qq_40087415/article/details/79367151
+Ubuntu   常用命令大全——长期不定时更新https://blog.csdn.net/seniusen/article/details/81055642
+Ubuntu  （homestead安装rpm包：sudo apt-get install rpm
+centos7：yum -y install rpm
+
+TP官网：http://www.thinkphp.cn/ 账号：xiaoshidai01  密码 362199 邮箱 1137078697@qq.com
+
+tp5快速入门：https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/478269
+购买20：登录方式qq
+
+TP5框架完整学习笔记:https://www.jianshu.com/p/7dd18927dd9a
+
+TP5事物支持：https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/478294
+TP5调试：use think\Db;	echo Db::table('table_name')->getLastSql();
+
+
+// 用git下载速度快
+使用vagrant一键部署本地php开发环境（一） https://blog.csdn.net/qq_39195042/article/details/82700277
+laraver5.8官方环境homestead 重量级环境搭建 https://laravelacademy.org/post/9530.html
+laraver5.8官方环境homestead搭建：https://learnku.com/docs/laravel/5.8/homestead/3882
+实用自用laraver环境 homestead盒子安装：https://learnku.com/docs/laravel-development-environment/5.7/development-environment-windows/2902#08a47f
+
+root@homestead:/# find / -name nginx.conf
+/etc/nginx/conf.d/nginx.conf
+/etc/nginx/nginx.conf
+/home/vagrant/.config/nginx/nginx.conf
+root@homestead:/# 
+
+ping  homestead.test/admin/user
+Git下载地址： https://gitforwindows.org/
+GIT说明（简书）：https://git-scm.com/book/en/v2
+工作向日葵： 626562518 验证码 7545
+
+cmd输入  npm  ：查看该信息
+cmd 启动npm根目录地址：E:\svn_work\Toutiao-Admin-FN
+
+安装（若有则不需要）：npm install
+启动（之后才能运行前台程序）：npm start
+http://localhost:3000/flogin    密码：9377toutiao
+http://localhost:3000/login
+
+头条转化4要素：转化目标、转化价格、点击率&转化率预估，构成了转化出价的四个核心要素。
+应用下载类：根据转化漏斗划分为6个转化目标：下载完成、安装完成、激活、应用内事件、注册、付费。
+线索类广告计划：转化目标相对较丰富多样，主要有：表单提交、电话拨打(点击拨打、确认拨打、有效接通)、在线咨询(点击咨询、有效咨询)、微信复制、商品购买等
+头条广告模式：http://www.seocss.com/seojishu/meiriyitie/628.html
+
+xampp（windiw下面安装laraver）： https://www.cnblogs.com/wenzheshen/p/7200750.html
+svn地址：http://192.168.10.96/svn/p3/dev/trunk/Toutiao-Admin  账号：wangshuai  密码：PQc0YsK8d1IW9hUi
+
+git教程：https://github.com/Zhangguoliu/learn-git/blob/master/learngit-note.md
+Homestead（laraver环境）安装：https://www.jianshu.com/p/ae9d1261bbd8
+
+https://www.cnblogs.com/gongyijie/p/8395105.html
+http://localhost/test.php
+
+composer config -g repo.packagist composer https://packagist.phpcomposer.com   
+
+虚拟机配置设置：
+##<VirtualHost *:80>
+##     ServerName www.testab.com
+##     DocumentRoot "E:/svn_work"
+##    <Directory "E:/svn_work"> 
+##         Options FollowSymLinks IncludesNOEXEC Indexes
+##         DirectoryIndex index.html index.htm index.php
+##         AllowOverride all 
+##         Order Deny,Allow 
+##         Allow from all 
+##         Require all granted
+##    </Directory>
+##</VirtualHost>
+
+<VirtualHost *:80>
+     ServerName www.testab.com
+     DocumentRoot "E:/svn_work"
+    <Directory  "E:/svn_work">
+        Options +Indexes +Includes +FollowSymLinks +MultiViews
+        AllowOverride All
+        Require local
+    </Directory>
+</VirtualHost>
+
+#D:\ test.php   DocumentRoot "C:/xampp/htdocs/php" 
+
+#<VirtualHost *:80> 
+#	DocumentRoot "C:/xampp/htdocs/php" 
+#	DocumentRoot "D:/xampp/htdocs/htdocs/test.php" 
+#	ServerName www.test.com 
+#	ErrorLog "logs/oneym.dev-error.log" 
+#	CustomLog "logs/oneym.dev-access.log" common 
+#</VirtualHost>
+
+查看所有端口占用情况： cmd netstat -ano | findstr 80
+window 下杀死所有nginx进程: taskkill /fi "imagename eq nginx.EXE" /f
+
+SourceTree.exe  git管理工具
+
+今日头条API接口文档： https://ad.toutiao.com/openapi/doc/index.html?id=39
+接口本地文件：file:///C:/Users/Administrator/Documents/QQEIM%20Files/2885375541/FileRecv/toutiaoShowDoc.html
+头条自用接口文档（没有权限）：http://showdoc.900k3.com/web/#/page/17
+
+OA管理系统：http://office.oa.9377.com/index.php?m=admin&c=index&pc_hash=PGHODI  
+qq邮箱：https://mail.qq.com/cgi-bin/frame_html?sid=FCGD3ohBKNN97UYa&target=today 
+企业邮箱登录地址： http://mail.9377.com/  账号： wangshuai  密码：HWAfr*Pu
+
+学习网站：http://its.gyqbedu.com/php-bf/index.html
+
+家(TV)：1229749575  958125113
+api接口文件：E:\vagrant_work_projects\poker\lib\ApiHelper.php
+路由配置文件：E:\vagrant_work_projects\poker\v2\routes\web
+参数配置文件：E:\vagrant_work_projects\poker\config\ppconfig.php 
+	包括内部接口 服务器ip系列等 参数配置
+控制器文件；E:\vagrant_work_projects\poker_inner\app\Http\Controllers\Service\ChargeController.php
+模型类文件：写鼠标表类 E:\vagrant_work_projects\poker_inner\app\Model\Pay.php 
+与C交互接口类文件：E:\vagrant_work_projects\poker_inner\app\Components\PPPokerServer.php
+命名规则：小驼峰（首字母小写，后面的大写）
+配置项目： 配置路由->建立模型->建立控制器->写与C接口交互
+
+日志位置：E:\vagrant_work_projects\poker_inner\storage\logs\lumen.log  
+相关函数：use Illuminate\Support\Facades\Log;    Log::debug("充值UID:".$uid);
+
+securecrt如何创建密钥以及登录key：https://jingyan.baidu.com/article/1709ad8075fab24634c4f024.html
+
+测试接口：http://www.poker_inner-dev.com/service/charge/first-charge?uid=121213
+
+vim：编辑器：https://jingyan.baidu.com/article/495ba8410ff14d38b30ede01.html
+打开文件命令： vim www.poker_inner-dev.com.conf 
+保存退出命令： esc 之后 ：wq
+正常退出： esc 之后 ：q
+强制退出： esc 之后 ：q！
+
+xshell切换到常用目录：
+cd ../..
+cd data/wwwroot/default
+
+调用laravel artisan命令:
+1:Ctrl+R打开运行启动cmd控制台  
+  2:切换到Laravel项目
+  3:php artisan 可查看命令说明
+
+支付端口：
+FirstCharge
+
+php执行定时任务：php artisan stats:firstcharge
+CentOS6修改主机名(hostname)及 修改/etc/hosts 文件，增加ip和hostname的映射关系（转）:   https://www.cnblogs.com/zhangmingcheng/p/6050982.html
+
+linux常用命令：https://www.cnblogs.com/gaojun/p/3359355.html
+Linux命令行下如何终止当前程序：https://www.cnblogs.com/pejsidney/p/8932707.html
+
+php fsockopen使用(php同步异步链接)：https://www.cnblogs.com/xuey/p/8463009.html
+
+关于数据库建表的： 
+1：uid全部用 bigint 
+2：varchar 设置为 255长度
+3：小字段类型用 tinyint，勾选 无符号，设置为 非空
+
+@所有人
+周一晚上10点前发给一华：制定自己的成长目标，找到在公司这个环境下的发展方向，找到自己在公司内的定位与空间。好好思考下，至少80字。成长这个属性是年终奖的考核标准之一，另一个标准是贡献。关于这个问题随时可以找我沟通，我们一起制定成长目标。
+
+个人目标：熟练使用Linux系统，熟悉其构造等细节问题，理解 Nginx 系统下的各种PHP相关架构，tcp,ip,httpt等协议，高并发等问题；熟悉go python等新语言：初步使用游戏引擎以及游戏制作原理。
+公司定位：往技术方面发展，熟练使用公司内部各种框架软件使用，如larveral，git，PhpStorm，key登录，游戏反作弊等。
+
+同步标识 :synchronous_identification_type  			tinyint  
+首次钻石消费类型：first_diamond_consumption_type 	tinyint
+首次花费钻石时间：first_diamond_time				int
+首次消费ID：first_consumption_id
+
+支付信息（插入pay表）->判断属于 app google类型 ->判断时间（>4.1号）->插入首充临时表（flow_first_charge）->时间在4.1-13的发送 奖励信息给c  
+
+http://120.77.236.161/git/KiwiGame/poker_inner/compare/master...master
+
+[PPPoker@17:18@develop:/PPPoker/poker]$ git status
+
+$ git status
+$ git branch
+$ git pull
+
+cd PPPoker/admin
+cd data/wwwroot/default/
+
+Element，网站快速成型工具，一套基于Vue 2.0 的桌面端组件库：http://element.eleme.io/#/zh-CN
+新JS Vue.js：https://cn.vuejs.org/
+
+首充测试地址：
+http://120.77.236.161/poker/test.php?type=apple&uid=244788&diamond=60
+http://www.poker-dev.com/test.php?type=apple&uid=244755&diamond=44
+http://www.poker-dev.com/test.php
+http://www.poker_inner-dev.com/service/charge/first-charge?uid=121214
+
+virtual box   vagrant    CentOS-6-x86_64-Vagrant-1809_01.VirtualBox
+xshell常用命令大全 https://www.cnblogs.com/qq350760546/p/7890680.html
+xshell常用命令大全 Windows下常用的100个CMD指令以及常见的操作 https://www.cnblogs.com/air-of-code/p/6015590.html
+
+161服务器代码git代码地址： http://120.77.236.161/git/pppoker/admin/src/master/bootstrap/app.php
+账号：wangshuai 密码：ABC36219940926 Abc36219940926
+
+161管理后台：http://120.77.236.161:8080/data/statistics
+预发布管理后台：http://47.89.53.159:8080/data/operate?gift
+
+161数据库只读账号 ： readonly   09093f4e 端口；3306  120.77.236.161 端口33666 用户 PPPoker
+161数据库读写账号 ： ppbeta   ppbeta_321 端口；3306  120.77.236.161 端口33666 用户 PPPoker
+
+socket （计算机专业术语）网络传输层协议： https://baike.baidu.com/item/socket/281150?fr=aladdin
+python 3分钟快速实现对，9种排序算法的可视化：https://mp.weixin.qq.com/s/MFYdoxqBw2X7aZHaip2rFg
+
+访问虚拟机主页： http://192.168.56.30/    http://localhost:10082/#
+
+腾讯在线文档：https://docs.qq.com/desktop/?_from=1
+腾讯工作后台登录地址：https://www.tapd.cn/51182974/prong/stories/stories_list
+腾讯企业邮箱：https://exmail.qq.com/cgi-bin/frame_html?sid=KOwnyzYHzWfgNh1B,7&r=329a0221952dfff234b66198daef0cd3
+账号 wshuai.wang@kiwigame.com 密码：Abc36219940926 原始密码：PPPoker123  
+git账号：wangshuai 密码:Abc362199...
+
+http://tapd.kiwigame.com/tapd_PM/3%E6%9C%88_%E9%99%88%E5%B0%8F%E7%87%95_%E5%91%A8%E5%B9%B4%E5%BA%86%E6%B4%BB%E5%8A%A8/#g=1&p=%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E
+
+需求文档后台：http://tapd.kiwigame.com/tapd_PM/3%E6%9C%88_%E9%99%88%E5%B0%8F%E7%87%95_%E5%91%A8%E5%B9%B4%E5%BA%86%E6%B4%BB%E5%8A%A8/#g=1&p=%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE
+
+后台登录账号密码：admin  PPPoker#123
+
+127.0.0.1 ieonline.microsoft.com
+127.0.0.1 idea.codebeta.cns
+192.168.56.30 www.admin-dev.com
+
+php错误日志：usr/local/lnmp/php/var/log/error_log   tail -f -50 /var/php_errors.log
+
+后台     Training@kiwigame.com    pp123456
+
+奇异果培训资料及产品视屏： http://tapd.kiwigame.com/tapd/
+
+E:\ces\CentOS-6-x86_64-Vagrant-1809_01.VirtualBox.box
+SSH Secure Shell Client      SSH Secure File Transfer Client
+
+svn://120.24.14.41/PPPoker/Design_Document/新人快速全面掌握游戏
+laravel社区文档：https://learnku.com/docs/laravel/5.4
+				 https://learnku.com/docs/laravel/5.8
+Laravel框架路由配置总结、设置技巧大全 https://www.jb51.net/article/54717.htm
+larveral框架开发历程（从0开始介绍）：https://blog.csdn.net/qq_39316391/article/details/86712725
+laravel5模型、控制器、视图基本操作：https://blog.csdn.net/nuli888/article/details/51884162  
+Laravel 5.5 文档  快速入门 —— 目录结构篇 https://laravelacademy.org/post/7629.html
+laravel 定时任务（计划）：
+https://laravelacademy.org/post/8346.html
+https://laravelacademy.org/post/8484.html
+
+奇异果申请企业共享工作文档（）：https://www.tapd.cn/invite_confirms/link_invite_activate?token=9ae5975a5e5b56216aef6e6fbeaab73f
+
+《Linux命令行大全》学习笔记：  https://blog.csdn.net/jiangtaozy/article/details/51471041
+Linux命令（常用）： https://baijiahao.baidu.com/s?id=1569590757599384&wfr=spider&for=pc
+
+http://192.168.56.30/
+http://192.168.56.30/poker/test.php
+
+svn:数据表报备
+svn://120.24.14.41/Server/bin    wangshuai = ws87211ihj
+
+cmd常用命令：
+切换到D盘 d: 
+切换到文件夹下面： cd 文件夹名称 cd qq
+
+Linux利用OneinStack搭建环境（支持各种linux集成环境） LNMP（Linux + Nginx+ MySQL+ PHP） https://oneinstack.com/install/
+
+介绍OneinStack支持以下数种环境组合：
+
+虚拟机配置：E:\vagrant_work_projects\env_config\beta\mysql.json
+			E:\vagrant_work_projects\env_config\dev\mysql.json
+			E:\vagrant_work_projects\admin\.env
+
+LAMP LNMPA Nginx  MySQL比较： https://www.cnblogs.com/shangdawei/p/4556841.html
+LAMP（Linux + Apache+ MySQL+ PHP）
+LNMPA（Linux + Nginx+ MySQL+ PHP+ Apache）：Nginx处理静态，Apache（mod_php）处理动态PHP
+LNMT（Linux + Nginx+ MySQL+ Tomcat）：Nginx处理静态，Tomcat（JDK）处理JAVA
+LNMH（Linux + Nginx+ MySQL+ HHVM）
+
+支持以下数种系统：
+CentOS 6~7（包括redhat）
+Debian 6～9
+Ubuntu 12～16
+Aliyun Linux 15.1
+
+ctrl +insert
+
+10.100.1.109
+
+vendor/.env   DOMAIN_SERVER=10.29.71.3:8005
+DOMAIN_SERVER=10.29.71.3:8005
+
+10.100.1.109
+
+www.poker-dev.com/poker-api/feedback/submit/public
+www.poker-dev.com/lib/db.php
+
+require_once(/data/wwwroot/default/poker/lib/../config/ppconfig.php): 
+
+192.168.56.30 www.poker_inner-dev.com/test
+
+www.poker-dev.com/poker-api/test1
+www.poker-dev.com/poker-api/send-user
+http://www.poker-dev.com/index.php
+http://www.poker_inner-dev.com/service/test
+
+git命令：
+
+git gui: 打开git图形界面
+git status  查看当前工作区和暂存区文件的状态(初步对比与上一个版本分支的的差异)
+git checkout—— test.php  检出，常用命令。最为常用的两种情形是创建分支和切换分支。
+git pull   将远程存储库中的更改合并到当前分支中
+git branch  git branch -d test：删除本地test分支
+
+vagrant 常用命令：https://www.cnblogs.com/think-a-lot/p/7754328.html
+重启：vagrant reload     启动：vagrant up
+
+本地连接：localhost：9090/student   localhost：8080
+
+服务端向客户端主动发送消息: https://blog.csdn.net/liujiandu101/article/details/81064707
+1：Ajax轮询:客户端定时向服务器发送请求  2：长轮询：（服务器挂起hold请求直到有数据返回） 3：长连接（页面里嵌入一个隐蔵iframe：网页聊天）
+
+jsonp处理跨域（详解） https://www.cnblogs.com/xiaoxiaoccaiya/p/7088176.html
+jQuery jsonp跨域请求 https://www.cnblogs.com/chiangchou/p/jsonp.html
+为什么要有跨域限制 https://blog.csdn.net/u012329294/article/details/79280672
+网络安全： CSRF：跨站请求伪造 CXSS:跨站脚本攻击
+
+http://blog.sina.com.cn/s/blog_72995dcc0102uzdg.html
+https://blog.csdn.net/zhoudaxia/article/details/14223755
+
+牌型比较：同花顺＞铁支＞葫芦＞同花＞顺子＞三条＞二对＞对子＞散牌。
+高张-一对 2对 三条 顺子 同花 葫芦 金刚 同花顺 皇家同花顺
+
+JetBrains PhpStorm 2018.3.5 x64 注册码:   http://idea.lanyus.com/
+
+小球碰数字：http://www.5577.com/azdj/218757.html
+
+转盘消消乐：https://games.qq.com/a/20170717/054556.htm  
+
+飞行棋规则：设置障碍然后退回到之前状态
+  
+饥荒；生存类游戏，从出生0到各种方向的发展，选择决定方向  https://baike.baidu.com/item/%E9%A5%A5%E8%8D%92/7269543?fr=aladdin#reference-[2]-10983133-wrap  搜  背景设定
+ 
+文字游戏（剧情）： https://www.zhihu.com/search?type=content&q=%E8%9D%B4%E8%9D%B6%E6%95%88%E5%BA%94+%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F  搜 依伊
+
+轮询升级游戏（参考英雄祭坛）：多个渠道（不同渠道）获得道具，道具由低级合成高级，同一渠道怪物按一定规则变难
+666ASD
+
+渗透工具：
+链接:https://pan.baidu.com/s/1Fbnfdeh8xJKyUgHdyun3Pw  密码:nb0j
+以前玩的时候收集的渗透工具   有兴趣的可以玩玩，最好用虚拟机安装，可能会有后
+
+并发测试： 腾讯压测大师600  jmeter上线程2W
+
+
+canal：（maxwell）解析binlog（数据库日志）日志
+java调优 我们用的是maxwell  + kafka  + mysql + ES   canal+mysql+mq+es
+
+
+适用于所有级别的开发人员的18个PHP工具:https://baijiahao.baidu.com/s?id=1606384707140160781&wfr=spider&for=pc
+
+百度网盘（百度文库）  geknfnt24625 ABC362...
+
+Z:\html\homekoo.com\sys\include		124测试服务器存放类的位置
+192.168.1.124  192.168.1.10	新居网尚品锐意 映射网络磁盘	账号密码：homekoo	密码：newhomekoo
+http://sys.homekoo.com/sitesys/login.php	新居网内部推广系统
+http://192.168.1.124/homekoo.com/weixin_zx/fuwuhao/jiamengshang/CI/index.php/tools/upToFtp3  新居网FTP地址
+http://192.168.1.10/html/weixin_zx/fuwuhao/jiamengshang/CI_ftp/index.php/tools/upToFtp3      新居网新FTP地址
+账号：ftp_wangshuai    王帅	密码: wangshuaia!5~dGio 端口：2345
+阿里云服务器监控后台:http://www.aliyun.com  353192202@qq.com   newhomekoo@0!3
+
+http://ehome.homekoo.com/login.php 	新居网内部员工考勤打卡使用 wangshuai 36219940926AAAa
+http://sys.homekoo.com/sitesys/login.php? 	新居网前台内容管理系统	王帅0   36219940926Aa	36219940926AaA																		
+http://tgsys.wy100.com/tongjisys/tuiguang/general_all_new_m_new.php 维意推广系统 王帅0  36219940926AAA 13875716372
+http://tgsys.homekoo.com/tgsys/		新居推广来源系统
+http://sys.homekoo.com/all/ 	管理总页面系统
+http://sys.homekoo.com/loupansys/main.php	新居楼盘方案制作管理系统
+svn地址:svn://192.168.1.6:3691/homekoo.com
+svn账号密码:wangshuai=2cPElxcnj
+
+ws87211ihj
+
+http://192.168.1.5/wayes_sys/weixin_zx/fuwuhao/jiamengshang/CI/index.php/tools/upToFtp3	维意FTP
+
+http://www.homekoo.com/topic_html/index_html.php?tp_id=100&flag=2&cache_del=1&show_tanchuang=1  专题静态文件更新,需要绑定66服务器
+http://www.homekoo.com/topic_html/index_html.php?tp_id=12&flag=2&cache_del=1&show_tanchuang=1
+
+在百度上搜索 ：尚品宅配、新居网、定制家具、新居网定制家具、尚品定制家具，尚品宅配官网、新居网官网等
+头部搜索js:http://img1.homekoocdn.com/html/js/js2012/log_user_search_20130409_v7.js?a=1510642550"
+
+测试区后台：http://192.168.1.124/homekoo.com/sys/	feixin	z123456 		
+http://192.168.1.124/homekoo.com/sys/main.php 		新居网络内容后台管理系统
+http://192.168.1.124/homekoo.com/sitesys/main.php	新居网前台内容管理系统
+
+http://sys.homekoo.com/fwqsys/	  服务器管理频道
+网站测速(站点测速,针对企业站长) http://ping.chinaz.com/news.homekoo.com		
+宽带测速(针对个人宽带) http://www.speedtest.cn/	
+http://sys.homekoo.com/sys/all_table_list.php	查看所有表说明
+http://sys.homekoo.com/newsys/search_table_data.php 表数据快速查询（先登陆）
+
+尚品SNS查业绩:http://tgsys.homekoo.com/tongjisys/sns/
+
+阿里云服务器管理平台: https://ecs.console.aliyun.com/?spm=5176.6660585.774526198.1.22cb6bf8LlPnV5#/server/i-bp1fwn13hqobz5fhpt9y/detail?regionId=cn-hangzhou
+登陆用户名:阿拉丁的话01   登陆密码:abc36219940926
+远程链接密码:362199
+支付宝绑定手机(注册手机):13875716372
+身份证号码:430422199409261574
+
+账号:13875716372 密码:abc36219940926
+阿里云密码:AAa36219940926
+账号:homekoo 密码:homekoo(newhomekoo)
+
+信息流(今日头条等):手动增加目录:http://sys.homekoo.com/tongjisys/tuiguang/toutiaoadid_add.php
+			手动增加目录列表页:http://sys.homekoo.com/tongjisys/tuiguang/toutiaoadid_list.php
+			传递接口(post方式):http://sys.homekoo.com/newsys/deal_member_fankui_pl_baoming_jk.php
+			接收列表页:http://sys.homekoo.com/sys/tg_pl_baoming_record_list.php
+			206服务器 tg_pl_baoming_record
+
+信息流(广点通等)			
+		http://sys.homekoo.com/tongjisys/tuiguang/guangdiantongadid_add.php
+		http://sys.homekoo.com/tongjisys/tuiguang/guangdiantongadid_list.php
+		http://sys.homekoo.com/newsys/deal_member_fankui_pl_baoming_guangdiantong.php
+		http://sys.homekoo.com/sys/tg_pl_baoming_record_list.php
+http://sys.homekoo.com/tongjisys/tuiguang/guangdiantongadid_list.php
+
+百度来源报名回传渠道:http://sys.homekoo.com/newsys/deal_member_fankui_pl_baidu.php
+查询业绩(报名存储表):tg_pl_baoming_record(245.206服务器)
+
+整装成本分析渠道(消费录入跟成本分析展示)
+http://newsys.homekoo.com/bmsys/set_sourse_zhengzhuang_spend.php?tg_sourse=447&year=2018&month=8
+http://sys.homekoo.com/tongjisys/tuiguang/zhengzhuang_xiaofei_chengbenfenxi.php
+http://tgsys.homekoo.com/tongjisys/tuiguang/general_all_new_m.php
+
+21楼电视屏 在线报名业绩体现 16服务器  online_guide_tv 数据库
+http://115.29.232.16/online_guide_tv/index.php?tdsourcetag=s_pcqq_aiomsg   21楼东宝电视屏
+http://newsys.homekoo.com/newsys/qudao_tongji.php   在线业绩统计
+http://115.29.232.16/online_guide_tv/sp_thread_cs20180903.php 电视屏测试插入数据接口
+http://115.29.232.16/online_guide_tv/sp_thread.php 电视屏测试插入数据接口
+http://newsys.homekoo.com/newsys/online_guide_tv_sp_api.php   报名数据传输接口
+
+电销中心(呼叫中心)时间个人报名数量接口:http://newsys.homekoo.com/newsys/online_guide_tv_sp_grlcjh_zhou_api.php
+
+体验店客户号码收集:http://sys.homekoo.com/sys/tiyandian_jilu_list.php
+
+mysql常用语句:https://www.cnblogs.com/cxxjohnson/p/5914583.html
+mysql主主复制:https://www.cnblogs.com/phpstudy2015-6/p/6485819.html#_label7
+站长工具	http://new.cnzz.com/v1/login.php?siteid=5893770		密码：5893770	
+百度经验频道统计代码功能 https://tongji.baidu.com/web/welcome/login  账号：homekoo2		密码：HomeKoo2017
+
+百度Spider  socket读写错误
+四楼电视屏最终版
+1;http://sys.homekoo.com/hztest/tv/zhuanhua.php
+2;http://sys.homekoo.com/hztest/tv/huaxiang.php
+3;http://sys.homekoo.com/hztest/tv/cailiao.php
+4;http://sys.homekoo.com/hztest/tv/shigong.php
+http://sys.homekoo.com/hztest/tv/shigong.php
+
+第四屏施工:http://sys.homekoo.com/sys/data_dianshigui_shujutu.php?
+数据库:153->homekoo(大家居) dajiaju_kehu_shigong_qingk
+
+http://hunan.122cn.net/Pay.aspx?id=1250666 违章办理 驾驶证 扣分代办
+
+sys/include/class._baoming_tz_record.php	推广来源的计算···
+X:\html\homekoo.com\tgsys\include\show\  show.laiyuan_info.html.php   推广信息详情页 推广来源加载
+X:\html\homekoo.com\include\base_info.php   常量公共类
+Z:\html\homekoo.com\sys\include\header.inc.php  后台栏目用户权限
+/html/sitesys/left_menu.php  新居前台添加权限列表
+
+月度抽奖程序:
+以前使用 121.196.226.86 www.wy100.com 
+目前使用 121.199.29.45	www.wy100.com 
+转移到   121.9.245.206 ehome.homekoo.com
+程序地址 http://www.wy100.com/zt_dazhuanpan.html
+本地文件地址 \\192.168.1.5\httpd\html\wy100new\tpl\new_ms\dazhuanpan\use
+抽奖程序新地址:http://ehome.homekoo.com/choujiang/zt_dazhuanpan.php
+E家服务器文件地址：/html/ehome/choujiang/
+
+设计师圈  http://sjq.homekoo.com/   114.215.199.223
+X:\html\homekoo.com\weixin_bbs\main\api\apply.php   报名失败话语文件  
+X:\html\homekoo.com\weixin_bbs\source\module\forum\forum_index.php 设计师圈主页面
+X:\html\homekoo.com\weixin_bbs\data\template\1_diy_forum_discuz.tpl.php	设计师圈详情页面
+
+我+客餐厅频道频道20171011修改 重写规则,优化逻辑(获取页数跟排序规则混乱)
+http://www.homekoo.com/wo_kecanting/list    \\192.168.1.124\httpd\html\homekoo.com\zhuhe_style\module	 listkct_2017.php(实际加载页面)]
+
+124后台上传:
+http://192.168.1.124/homekoo.com/sys/images2017/2017_10/7777771.jpg
+124前台读取:
+http://192.168.1.124/homekoo.com/sys/images2017/2017_10/7777771.jpg
+
+http://img1.homekoocdn.com/html/common/images/new_footer/footer_icon.png
+http://img1.homekoocdn.com/html/common/images/new_footer/xiaoxiao11.jpg
+
+66后台上传图片:
+http://sys.homekoo.com/sys/images2017/2017_10/88888888888888888888888888888888_2.jpg
+sys.homekoo.com
+
+http://www.homekoo.com/products/97586
+src="http://img1.homekoocdn.com/html/sys/../sys/images/taocan_pic_1024/976/2017_02_10/97586_06d55ee10c40e4378ebe597d8de496e1.jpg"
+
+http://www.homekoo.com/products/97283 错误显示一口价问题 20171101
+
+SQL更新语句:
+UPDATE `taocan_cache_2` SET `now_price_end_time`='1509292800' WHERE (`id`='22640')
+
+http://www.jobui.com/company/11077358/salary/		职友集
+
+天猫亚当店(好看的界面):https://yadan.tmall.com/view_shop.htm?spm=a220m.1000858.0.0.614630e4kKmhKU&shop_id=142266891&rn=2e05e4288449f4f1f1a8cde173727b55
+
+技术部郑哥月度总结与计划:
+http://ehome.homekoo.com/inquiry.php?year=2017&month=2&did=1
+http://note.youdao.com/noteshare?id=a1b1f69dae2ca36d0f21da9e0a6e85d8&sub=B07C1C448FBC4D339ABFD62A31DD37A0
+
+推广来源;客户来源
+专题页报名总数显示:tongji_kehu_record	报名数量显示.全部报名,当日报名
+通过推广来源 专题ID 统计报名数量  $sp_type=2305;//报名ID号   $tg_id=26;//推广渠道ID
+
+根据报名专题id统计报名数量
+SELECT count(id) FROM `member_fankui_cache1` WHERE `last_sourse_type` = '986' ORDER BY `id` DESC LIMIT 0, 1000
+SELECT count(id) FROM `member_fankui_cache1` WHERE `last_sourse_type` = '986' and `post_date` > '1527782400' and `post_date` < '1530374400' ORDER BY `id` DESC LIMIT 0, 1000
+
+查询专题报名数量
+http://tgsys.homekoo.com/tongjisys/tuiguang/riqushi.php
+http://tgsys.homekoo.com/tongjisys/tuiguang/riqushi.php
+
+根据报名id查询来源网址:pchomekoo_baoming_deal_temp_record
+SELECT id,bm_url FROM `pchomekoo_baoming_deal_temp_record` WHERE `sp_type` = '490' LIMIT 0, 20
+
+member_fankui
+member_fankui_cache1
+
+报名表同步问题 
+SELECT * FROM `pchomekoo_baoming_deal_temp_record` WHERE `is_deal` = '1' AND `fankui_id` = '0' ORDER BY `id` DESC LIMIT 0, 1000
+
+将  is_deal 字段改成0 ,等待定时任务自动跑
+
+报名地址文件
+X:\html\homekoo.com\include\js   	bm_common_tools.js  增加  陕西 => 西安
+
+http://tgsys.homekoo.com/tgsys/show.php?id=4822541	通过反馈表id查询报名信息
+
+报名查看->新居客服管理系统->统计分析->全渠道统计(新)
+
+统计报名页面	http://tgsys.homekoo.com/tongjisys/tuiguang/tongji_table.php 
+移动端报名文档	/html/m_homekoo/public/mhomekoo_baoming_file  
+PC端报名文档	/html/zhixiao/pcbaoming_infolist_new	      
+监控进程：deal_baoming_data_tongbu_jiankong_tongji_record_server.php
+不知名的监控进程：deal_jiankong_is_finished_server.php
+
+移动端从报名页提交到文件的:			  m.homekoo.com/public/mhomekoo_ajax_xml.php",
+移动端xml同步到临时表报名进程		  http://m.homekoo.com/public/mhomekoo_baoming_dingshi.php
+移动端临时表同步报名到反馈表报名进程  http://m.homekoo.com/public/mhomekoo_tongji_baoming_num.php    mhomekoo_tongji_baoming_num_new.php
+移动端监控进程    					  http://m.homekoo.com/public/mhomekoo_baoming_jiankong.php
+
+http://www.homekoo.com/zhixiao/zt_baoming_ajax_pc_new.php   从报名页提交到文件的ajax
+http://www.homekoo.com/newsys/xml_baoming_auto_rec_ack.php  从xml同步到 pchomekoo_baoming_deal_temp_record 进程
+http://www.homekoo.com/newsys/pc_baoming_deal.php 			从临时表同步到 fankui_kehu_other_info
+http://www.homekoo.com/newsys/deal_baoming_data_tongbu_jiankong_tongji_record_server.php 监控 临时表 进程
+
+查看报名详细情况(member_fankui_cache1)http://tgsys.homekoo.com/newsys/show.php?id=388611
+移动端查看访问量(流量): 121.9.245.195  weibo_user_visit_detail   SELECT COUNT(id) FROM `weibo_user_visit_detail_20180801` WHERE `url` LIKE '%http://m.homekoo.com/cuxiao/%';
+
+(公用)同步进程  design_free_tofankui.php(同步报名渠道,报名来源等)  		member_fankui->add
+遍历按照时间清空文件夹(文件)脚本
+http://www.homekoo.com/bianlidel.php
+
+通用FPT服务器数量IP 配置文件：Z:\html\homekoo.com\weixin_zx\fuwuhao\jiamengshang\CI\application\config\tools.php
+
+尚品首页更新
+http://www.homekoo.com/index_html.php  尚品首页动态网址
+前台管理系统搜索 静态->同步文件
+
+正式服图片案例地址(首页数据库)
+http://img1.homekoocdn.com/html/sys/images2017/2017_10/44444444444444.jpg
+images2016/2016_05/111_3.jpg	徐玉花头像
+首页图片数据库	2017homepage
+
+公司新闻:http://www.homekoo.com/Material/view_news.php?id=9722
+article
+咨询 http://www.homekoo.com/zixun/208051
+article
+新闻:http://news.homekoo.com/xinwen/24169
+zx_article
+知道频道 zhidao 数据表
+new_search_zhuti_article
+
+数据图算法20171123
+http://192.168.1.124/homekoo.com/hztest/tv/data.php
+数据图算法网易云需求文档
+https://note.youdao.com/share/?id=32b611d2985f033e7161b782b4d5f287&type=note#/
+
+装修频道对应服务器
+http://sys.homekoo.com/fwqsys/fwq_load_show.php?ip=112.124.124.56	
+
+http://192.168.1.124/homekoo.com/new_kitchen/		新厨
+http://lechu.homekoo.com/ 	乐厨
+
+http://www.homekoo.com/cs/tiyan/	体验店频道(头部入口)   shop_all(城市分组ajax里面)   shop_all(加盟店表)
+http://www.homekoo.com/tiyandian/guangzhou 体验店频道(底部入口)     seo_city(城市表)  tiyandian_new -> shop_all(加盟店表)表合并迁移
+base_convert 	尚品官网体验店频道验证码随机数转换问题函数
+http://www.homekoo.com/fxcode.php?update=%27%20+%20Math.random()%20+%20%27	尚品官网体验店频道调取验证码
+http://192.168.1.124/homekoo.com/fxcode.php?update=%27%20+%20Math.random()%20+%20%27	124测试服调取验证码
+
+http://192.168.1.124/old_72home/index3.php	72home(七十二家 家居团购网)	2000年建站 2006年关闭 		
+
+http://bbs.tianya.cn/post-funinfo-5967669-1.shtml	相亲的缺陷
+http://bbs.tianya.cn/post-funinfo-5554349-1.shtml	相亲女日志
+http://www.cjjjs.com/paper/gzsh/201659151045665.aspx  提高情商的建议
+ 
+CDN上传	技术应用	首页 => 内容管理 => URL刷新	添加对应链接 => 提交
+http://portal.chinanetcenter.com/ 	账号：homekoocom  密码:homekoo@0!7cd	
+CDN更新地址	 https://si.chinanetcenter.com/purview/contentManage/update_directory.htmlDE=SI_CP_PURGE_DIRECTORY&productCode=SI_CONTENT_MANAGE
+CDN上传示范地址		http://note.youdao.com/groupshare/?token=556DB5E423A54AD5B015165C155F5C89&gid=21099503		
+122.13.168.92  cdn服务器   ftp_zengzhaoke   zengzhaoke!5~dGio
+
+数据库常用端口：3306	2345	
+常规数据库通用账户：homekoo1703	iLHWkd7395H8sP
+测试区的数据库：192.168.1.124	root		new72home
+
+测试区后台：http://192.168.1.124/homekoo.com/sys/	feixin	z123456 		
+http://192.168.1.124/homekoo.com/sys/main.php 		新居网络内容后台管理系统
+http://192.168.1.124/homekoo.com/sitesys/main.php	新居网前台内容管理系统
+
+X:\html\homekoo.com\sys\images2017\2017_08		124测试服图片存储地址
+string(26) "images/2017_09/yuan_18.jpg"
+重定向
+header("location:http://news.homekoo.com/xinwen/22849");
+定义编码
+//header("Content-Type: text/html; charset=utf-8");
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+手机验证码 $url = "http://newsys.homekoo.com/newsys/jiajutop_send_sm.php?phone=".$phone."&msg=".$str;
+jq手机号正则验证:var reg=/^((1[3,4,5,7,8,9][0-9]))\d{8}$/;
+X:\html\spzp.com\photo23\ajax_yzm.php
+http://www.homekoo.com/cs/tiyan/	向用户发送地址类
+
+摄影大赛     
+X:\html\spzp.com\photo23
+http://neibu.spzp.com/photo23
+http://192.168.1.124/homekoo.com/sheying/index_bm.html	摄影大赛前端修改地址
+121.9.245.204  用户名：homekoo  密码：hom@koo73LVS    端口：2345
+DocumentRoot /hometpd/newspzp_html/
+ServerName  neibu.spzp.com 
+点赞js:photo7_common.js
+点赞ajax:Untitled_bak_ajax.php 
+
+尚品老版官网 http://neibu.spzp.com/qilan.html?
+管理后台:neibu.spzp.com/sys/index2.php
+账号密码: wangshuai   Wang123456
+代码服务器：121.9.245.204
+数据库服务器：121.9.245.206
+数据库账号密码：homekoo  hom@koo73LVS    2345
+　DocumentRoot /home/httpd/newspzp_html/
+
+尚品(股票官网)SPZP.COM后台： http://www.spzp.com/zp/whir_system/  		账号：root  密码：admin
+投资者关系    http://www.spzp.com/zp/houtai/sys/login.php      账号：admin     密码：admin
+服务器地址:121.9.245.204     视频->栏目空大类-> 首页视频;
+
+http://www.spzp.com/index.html       的124位置在Z:\new.spzp.com
+客户中心动态 http://www.spzp.com/zp/plus/list.php?tid=12
+全国网点动态 http://www.spzp.com/zp/plus/list.php?tid=25
+手机版首页动态  http://www.spzp.com/zp/plus/list.php?tid=39
+手机版首页 静态:http://www.spzp.com/zp/mobile/
+
+公共短信报名接口：http://newsys.homekoo.com/newsys/jiajutop_send_sm.php?phone=".$phone."&msg=".$str;
+php 调用远程url的六种方法小结：http://lib.csdn.net/article/php/12304
+
+TQ 两台服务器地址: 121.199.3.88           121.199.58.38    
+TQ 管理后台登陆  http://vip.homekoo.com/vip/index.do    TQ账号：newhomekoo，密码：xjzxdgtq2017
+121.199.3.88     5cb4@2EeBBcE2$i8a         
+121.199.58.38    7dt2@FfeBBcE2$i8a 
+TQ客服对应关系:http://sys.homekoo.com/sys/tq_kefu_list.php
+
+输出josn类函数
+alert(JSON.stringify(res.data[0]['id']));
+var arr    =    JSON.parse('json字符串');
+var_dump(json_decode($json)); 
+var_dump(json_decode($json, true)); 
+json_encode()
+可以看出json_encode()和json_decode()是编译和反编译过程，注意json只接受utf-8编码的字符，所以json_encode()的参数必须是utf-8编码，否则会得到空字符或者null。
+
+控制台输出： console.log(my_scrollTop); 
+
+http://sys.homekoo.com/sitesys/main.php
+http://192.168.1.124/homekoo.com/sys/main.php
+$reflection = new ReflectionFunction('getList_memCache');	查看该方法(函数)地址
+var_dump($reflection->getFileName());
+
+Z:\html\homekoo.com\ehome\yxpk 营销PK系统项目地址
+http://ehome.homekoo.com/yxpk/yx_week.php
+营销PK测试用账号
+youxiaozhou；964373a
+yaoyisheng  920409yys
+肖经华	账号：xiaojinghua  密码: xiao123
+雷雁超	leiyanchao l123456
+莹萍 yiping    密码：123456
+钟秋花	zhongqiuhua	778522a
+
+//返回该方法（函数）加载文件的位置
+$reflection = new ReflectionFunction('getList_memCache');
+var_dump($reflection->getFileName());
+
+提供的楼盘:		1983779 => 77873
+总客户数		7195395=> 4795353　　
+提供的方案:		19427567=>?  (套餐99189)　户型
+提供的户型:		6699161 =>　78767
+
+整装云专题页:http://weixin.homkoo.com/Activity/Zhaoshang/index_640/from/52/baoming_id/640.html?debug=55
+整装云文件地址:/homkoo/Application/Activity/View/Zhaoshang/
+服务器：121.196.226.125
+
+新居网wifi:xj1788a
+show variables like 'character%';	登陆查看数据库编码
+米兰剪影  英伦印象 北欧阳光 韩式田园 北美枫情 德国森林 简约主义 浪漫主义
+
+http://ehome.homekoo.com/yingixiao/yx_leader_admin.php  营销系统已经做好的一个页面
+http://ehome.homekoo.com/hujiao_admin.php  运营部--营销岗位PK系统主页   案例
+Z:\html\homekoo.com\ehome\yingixiao	   营销PK项目位置
+X:\html\homekoo.com\experience		百度经验频道统计代码功能
+
+Z:\homekoo.com\mjjz_zx\bigHome\application\controllers\jianli 	监理版项目位置
+X:\html\homekoo.com\sys\images2017\2017_08 124测试服图片储存位置
+multiple
+
+http://www.newcger.com/		电影特效剪辑
+
+缓存技术:Memcached redis
+redis 通用账户,端口设置 
+服务器ip 121.40.39.210(需要开通对应防火墙)  121.9.242.156(需要开通对应防火墙)   127.0.0.1(本地)
+端口 26789
+密码 Ju2abAJvXTewfisq5gT8Z5VxchD9h1xu
+
+PhpStorm2018 安装https://blog.csdn.net/qq_36459750/article/details/80365793
+
+亿级商品详情页架构演进技术解密（下）https://mp.weixin.qq.com/s?__biz=MzI4OTU3ODk3NQ==&mid=2247486164&idx=1&sn=efac1642f938f82afca2c16797b5ae98&chksm=ec2c4064db5bc97210991f406565878445d676b73aed1603b8dc45ca0aff8c5caea8f839102c&mpshare=1&scene=23&srcid=#rd
+换ip方法（包括局域网，公网）  https://jingyan.baidu.com/article/20b68a8886e04b796dec627e.html 
+TV  TeamViewer 破解文档 https://blog.csdn.net/dianxin113/article/details/82888545
+mongodb与mysql相比的优缺点   https://www.cnblogs.com/lihaozy/p/3461394.html
+api接口注意事项 https://blog.csdn.net/qq_41073294/article/details/80665608
+php设计模式  https://www.cnblogs.com/leedaily/p/8250158.html
+apache限制单位时间内ip访问次数 http://blog.51cto.com/hzcsky/548533
+php安全 https://www.jb51.net/article/52280.htm
+MD5加密解密网站：https://www.cmd5.com/
+Redis、Memcache和MongoDB的区别     https://www.cnblogs.com/tuyile006/p/6382062.html
+php支付宝开发之pc网站支付接入 https://blog.csdn.net/swimming_in_IT_/article/details/78490225
+7个技巧提高MYSQL速度:https://zhuanlan.zhihu.com/p/30939479
+MySQL 性能优化的最佳20多条经验分享  https://www.cnblogs.com/pengyunjing/p/6591660.html
+小程序开发资料:https://mp.weixin.qq.com/debug/wxadoc/dev/index.html
+电脑超频：https://zhidao.baidu.com/question/195625027.html
+PHP远程获取的三种方法:https://blog.csdn.net/qq_29920751/article/details/52245666
+ip地址免费接口 http://ip.taobao.com/service/getIpInfo.php?ip=183.6.137.172
+显示器尺寸分别最佳分辨率:https://zhidao.baidu.com/question/67549544.html
+懒加载以及实现原理:https://blog.csdn.net/weixin_35955795/article/details/54411516
+PHO以及前端各种类源码:http://www.layui.com/demo/upload.html
+10大主流压力测试工具推荐 https://blog.csdn.net/moonpure/article/details/72674374:
+web前端性能优化总结:https://blog.csdn.net/mahoking/article/details/51472697
+web后端之数据库优化的八种方式:https://blog.csdn.net/weixin_42549725/article/details/80976545
+高并发优化处理方式:https://www.cnblogs.com/dawn-and-night/p/7240280.html
+处理高并发https://bbs.csdn.net/topics/390908159
+高并发和大数据的解决方式:https://blog.csdn.net/u014371184/article/details/78052891
+PHP Ajax 跨域问题最佳解决方案:https://blog.csdn.net/lmjy102/article/details/54891192
+阿里P8架构师谈：数据库、JVM、缓存、SQL等性能调优方法和原则(高并发,大数据): https://news.html5.qq.com/share/925160388523975541?url=http%3A%2F%2Fkuaibao.qq.com%2Fs%2F20180815A0B1HW00&sh_sid=1__1137078697__d43f4b2a542d95f30bc128741f7d88cb&ch=060000&qbredirect=&share=true&sc_id=wwZGJdC
+手机卡:https://detail.tmall.com/item.htm?spm=a230r.1.14.41.52b77a89a0xFrZ&id=556355356980&ns=1&abbucket=7&skuId=3881881339043
+销售人员必读的的55句经典语录-如何提高销售技巧和话术;http://www.360doc.com/content/15/0414/14/9346039_463128378.shtml
+MySQL分库分表总结:https://blog.csdn.net/hanghangaidoudou/article/details/69569625
+date 时间函数:http://php.net/manual/zh/function.date.php
+清空mysql,自增id清空: sql命令: 用于清空某表的数据 且让自增的id重新从0开始 truncate table 你的表名  
+小程序、公众号、APP的一些区别 https://baijiahao.baidu.com/s?id=1600798581785258644&wfr=spider&for=pc 
+免费在线作图，实时协作 https://www.processon.com/;jsessionid=538BA53C29A676422EE345C04E60EE8D.jvm1
+站长必知基础（一）：如何阻止垃圾蜘蛛的抓取 http://www.feiwenseo.com/113.html
+TCP、UDP以及HTTP协议的简单讲解 https://www.cnblogs.com/xiohao/p/4439164.html
+按键精灵 找内存基址 https://wenku.baidu.com/view/cdb56e3067ec102de2bd89eb.html
+分布式事务 -- 最佳实践方案汇总 -- 看这1篇就够了 https://blog.csdn.net/chunlongyu/article/details/80246785
+京东分布式数据库系统演进之路  https://blog.csdn.net/qiansg123/article/details/80128288
+网站大规模并发处理方案：电商秒杀与抢购 https://blog.csdn.net/HUXU981598436/article/details/60963744
+网站架构  https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84/268736?fr=aladdin
+问底】徐汉彬：Web系统大规模并发——电商秒杀与抢购 https://www.csdn.net/article/2014-11-28/2822858
+揭秘DDoS黑市：50块钱就能攻击瘫一家网站  https://baijiahao.baidu.com/s?id=1613639688178636654&wfr=spider&for=pc  
+
+
+4个新能源低价汽车推荐;https://chejiahao.autohome.com.cn/info/1018406
+微型排名靠前的五种汽车:http://www.huishangbao.com/news/qichefangchan/196092.html
+生成缩略图:http://blog.csdn.net/muziduoxi/article/details/16844621
+关于“斐讯0元购”模式(挖矿)  http://www.phicomm.com/cn/index.php/News/detail/cateid/2/id/372.html
+电动车上路规范:https://www.sohu.com/a/164646599_672888
+js jquery 获取地址栏参数  https://www.cnblogs.com/hongmaju/p/5510988.html
+排名在前 1% 的高中生是靠天赋还是靠努力？ https://www.zhihu.com/question/22164041/answer/148128347
+智商高低是因为思维习惯不同造成的吗？ https://www.zhihu.com/question/27283467/answer/36196052
+
+
+
+ContentType LoadModule
+
+php发展路线:
+1:垂直路线，就是吃透PHP、包括整个PHP解释器方面的技术、可以写PHP的扩展。并且有不少自己积累的库。
+2:架构路线，对于围绕PHP的框架、服务器方面的架构、打并发这些的经验。
+3:业务路线，对于不同领域的业务层面的东西与系统结合的部分有比较深入的研究。
+
+php常用技术汇总:http://www.jb51.net/article/93317.htm
+PHP常用函数总结(180多个):http://blog.csdn.net/lzuacm/article/details/52504810?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+php防止短信验证(轰炸):https://www.cnblogs.com/blogforly/p/5841811.html
+微信公众平台开发-用户管理中常用接口调用实例及解析（含源码） https://www.cnblogs.com/mxlbook/p/6525149.html
+
+HTML5的十大新特性			https://www.cnblogs.com/vicky1018/p/7705223.html
+Tp3.2 和 Tp5.0之间的区别	https://www.cnblogs.com/ghjbk/p/6924015.html
+Redis和Memcache区别，优缺点对比    https://www.cnblogs.com/JavaBlackHole/p/7726195.html
+
+href="../sys/zt_loupan_list2.php"	楼盘专题页面
+href="../sys/zt_loupan_add2.php"	创建楼盘页面
+zt_loupan	中国美林湖	56090	中国美林湖
+
+http://www.speedtest.cn/	网络测速站点
+
+首页浮窗咨询框;2017 11 16取消招商加盟 
+Y:\html\homekoo.com\new_zixun\new_zixun.php";
+首页头部;2017 11 16取消招商加盟 
+Y:\html\homekoo.com\header\header.php
+ 
+服务器相关:
+Total Requests 总得请求 
+Valid Requests 有效的请求 
+Failed Requests 失败的请求
+Processed Time 加工时间
+Unique Files 独特的文件 
+Unique 404 404
+Static Files 静态文件 
+Log Size 日志大小
+Bandwidth 带宽
+
+Requested Files 请求的文件 
+Static Requests 静态请求
+Not Found URLs 没有找到网址 404
+Visitor Hostnames and IPs 访问者的主机名和IPs
+Operating Systems 操作系统
+Browsers 浏览器
+Time Distribution 时间分布
+Referrers URLs 推荐网址
+Referring Sites 参考网站
+HTTP Status Codes http 状态码
+
+name:TaMaMBoLo	serial:9f8809574f8777bb
+http://www.7law.cn/  启法网外网	
+http://139.129.14.155:606/index.php?m=login&a=login 外网登录页面
+http://139.129.14.155:606/index.php?m=Telplus&a=add 外网测试网增加页面
+svn://192.168.1.218/product/   cpzx
+svn://192.168.1.218/F_system/  IT_CENTER
+
+内网测试环境：
+http://192.168.1.218:606/  本地测试服务器
+http://192.168.1.218:606/index.php?m=askcenter  开发后台
+
+http://192.168.1.218:606/index.php?m=Telplus&a=add   时间地点排队人数纪录
+http://192.168.1.218:606/index.php?m=askcenter&a=telbox  录入信息需要做ajax界面
+http://192.168.1.218:606/index.php?m=Telplus&a=window&tel=13640840751 ajax功能显示界面
+http://www.w3school.com.cn/jquery/jquery_ref_events.asp  触发事件属性
+http://192.168.1.218:606/index.php?m=Admin   		管理员列表
+http://192.168.1.218:606/index.php?m=Admin&a=add 	增加管理员列表
+http://192.168.1.218:606/index.php?m=Lawfirm 		需要增加
+
+http://blog.csdn.net/chuangrain/article/details/8099882 redis 介绍，安装，配置
+http://www.cnblogs.com/youxin/archive/2013/04/17/3025381.html	三种不同级别的站内消息应用场景
+http://blog.csdn.net/yangzl2008/article/details/8861069         Eclipse Paho 推送提醒机制
+http://www.workerman.net/workerman    		workerman是一个高性能的PHP socket 服务器框架，workerman基于PHP多进程以及libevent事件轮询库，PHP开发者只要实现一两个接口，例如Rpc服务、聊天室服务器、手机游戏服务器等。
+http://www.swoole.com/		PHP的异步、并行、高性能网络通信引擎，使用纯C语言编写，提供了PHP语言的异步多线程服务器，异步TCP/UDP网络客户端，异步MySQL，异步Redis，数据库连接池，AsyncTask，消息队列，毫秒定时器，异步文件读写，异步DNS查询
+ 
+ssh 账号
+192.168.1.218 22
+haichun
+vitas123
+/opt/webroot  ssh路径
+
+http://www.php.net/manual/zh/	php在线手册
+
+http://192.168.1.218:606/index.php?m=askcenter&a=telboxlist&sort=call_begintime&keyword=%E9%98%BF%E6%96%AF%E8%BE%BE&user_call=%E9%98%BF%E6%96%AF%E8%BE%BE
+http://192.168.1.218:606/index.php?m=askcenter&a=telboxlist&sort=call_begintime&lbdate=id&ledate=id
+http://192.168.1.218:606/index.php?m=askcenter&a=telboxlist&sort=call_begintime&keyword=%E9%98%BF%E6%96%AF%E8%BE%BE
+
+数据库
+192.168.1.218   3306 	root 	7law2016
+
+linux+apache+mysql+php
+windows+apache+mysql+php
+
+php远程连接数据库： https://zhidao.baidu.com/question/46352847.html
+
+http://139.129.14.155:606/index.php?m=askcenter&a=telbox
+http://139.129.14.155:606/index.php?m=Telplus&a=window&tel=13640840751
+
+笔记本：  192.168.0.136
+张盼：    192.168.0.114
+工作自己：192.168.0.152 80：444：3306
+https://192.168.0.114:444/svn/oa  80：443：3306
+http://www.oa2.com/admin/index/index
+
+创建仓库
+svnadmin create D:\app\oa(位置)默认  D:\Repositories\xiao
+
+开启服务
+svnserve -d -r  D:\app\oa(位置)默认  D:\Repositories\xiao
+
+界面配置1；项目	2；用户	3；权限
+
+区域网：http://192.168.0.152/admin/user/login
+协众OA系统案例：http://oa.cnoa.cn/index.php
+
+https://tool.lu/coderunner/ 开发工具大全（包含各种语言运行环境）
+
+http://www.cnblogs.com/wzhiq896/p/5985882.html  基础详解
+
+消息队列：  
+RabbitMQ  MemcacheQ一般使用
+beanstalkd  单纯做队列服务建议（小巧、性能好）
+kafka	    如果考虑到高可用、海量可以用
+
+MemcacheQ RabbitMQ
+RabbitMq、ActiveMq  	2个重量级产品
+Memcacheq、MSMQ了	较为轻量的
+
+http://blog.csdn.net/sunxinhere/article/details/7968886		消息队列的比较：
+http://blog.csdn.net/whycold/article/details/41119807		RabbitMQ基础概念详细介绍：
+http://www.cnblogs.com/lsx1993/p/4657897.html			各种详细的消息队列的比较
+http://blog.csdn.net/tiedanzi/article/details/53035905	 	memcacheq消息队列的详细介绍和依赖性，消息队列的安装
+     
+http://blog.csdn.net/zhuoxiong/article/details/9394839  	mysql各种连接查询方式
+https://zhidao.baidu.com/question/576677954.html?qbl=relate_question_0&word=php%D6%D0%CF%FB%CF%A2%CD%A8%D6%AA   消息通知参考js代码
+https://segmentfault.com/q/1010000005780973 			消息队列的详细各种作用
+http://blog.csdn.net/column/details/rabbitmq.html 		消息队列的学习资料
+
+RabbitMQ
+是使用Erlang编写的一个开源的消息队列，本身支持很多的协议：AMQP，XMPP, SMTP, STOMP，也正是如此，使的它变的非常重量级，更适合于企业级的开发。同时实现了一个经纪人(Broker)构架，这意味着消息在发送给客户端时先在中心队列排队。对路由(Routing)，负载均衡(Load balance)或者数据持久化都有很好的支持。
+
+Redis
+是一个Key-Value的NoSQL数据库，开发维护很活跃，虽然它是一个Key-Value数据库存储系统，但它本身支持MQ功能，所以完全可以当做一个轻量级的队列服务来使用。对于RabbitMQ和Redis的入队和出队操作，各执行100万次，每10万次记录一次执行时间。测试数据分为128Bytes、512Bytes、1K和10K四个不同大小的数据。实验表明：入队时，当数据比较小时redis的性能要高于RabbitMQ，而如果数据大小超过了10K，Redis则慢的无法忍受；出队时，无论数据大小，Redis都表现出非常好的性能，而RabbitMQ的出队性能则远低于Redis 
+
+ZeroMQ
+号称最快的消息队列系统，尤其针对大吞吐量的需求场景。ZMQ能够实现RabbitMQ不擅长的高级/复杂的队列，但是开发人员需要自己组合多种技术框架，技术上的复杂度是对这MQ能够应用成功的挑战。ZeroMQ具有一个独特的非中间件的模式，你不需要安装和运行一个消息服务器或中间件，因为你的应用程序将扮演了这个服务角色。你只需要简单的引用ZeroMQ程序库，可以使用NuGet安装，然后你就可以愉快的在应用程序之间发送消息了。但是ZeroMQ仅提供非持久性的队列，也就是说如果down机，数据将会丢失。其中，Twitter的Storm中使用ZeroMQ作为数据流的传输。
+
+ActiveMQ
+是Apache下的一个子项目。 类似于ZeroMQ，它能够以代理人和点对点的技术实现队列。同时类似于RabbitMQ，它少量代码就可以高效地实现高级应用场景。RabbitMQ、ZeroMQ、ActiveMQ均支持常用的多种语言客户端 C++、Java、.Net,、Python、 PHP、 Ruby等。
+
+Jafka/Kafka
+Kafka是Apache下的一个子项目，是一个高性能跨语言分布式Publish/Subscribe消息队列系统，而Jafka是在Kafka之上孵化而来的，即Kafka的一个升级版。具有以下特性：快速持久化，可以在O(1)的系统开销下进行消息持久化；高吞吐，在一台普通的服务器上既可以达到10W/s的吞吐速率；完全的分布式系统，Broker、Producer、Consumer都原生自动支持分布式，自动实现复杂均衡；支持Hadoop数据并行加载，对于像hadoop的一样的日志数据和离线分析系统，但又要求实时处理的限制，这是一个可行的解决方案。Kafka通过Hadoop的并行加载机制来统一了在线和离线的消息处理，这一点也是本课题所研究系统所看重的。Apache Kafka相对于ActiveMQ是一个非常轻量级的消息系统，除了性能非常好之外，还是一个工作良好的分布式系统。
+
+其他一些队列列表HornetQ、Apache Qpid、Sparrow、Starling、Kestrel、Beanstalkd、Amazon SQS就不再一一分析。
+
+RabbitMQ:地址 用户名 密码 http://192.168.1.218:15672/#/  admin 662211
+
+display:none  block
+2017淘宝 传智php教程 https://item.taobao.com/item.htm?id=549253586032
+新能源汽车充电枪介绍（淘宝）：https://item.taobao.com/item.htm?spm=a230r.1.14.21.5250252avKwTCM&id=533262510057&ns=1&abbucket=9#detail&qq-pf-to=pcqq.c2c
+时间跳转查询	$("#timebutton").
+http://192.168.1.218:606/index.php?m=CasehandlingCenter&a=interviewtracterlist	
+php头部重定向(头部重定向)
+header("location:http://192.168.1.124/homekoo.com/sys/picnew_label_add.php?");	exit();	
+SEO广告报价跳转专题
+http://www.homekoo.com/zhixiao/cuxiao.php
+两条自然流量的的专题
+header("location:http://www.homekoo.com/zhixiao/design_free.php?");	exit();	
+http://www.homekoo.com/zhixiao/design_free.php
+http://www.homekoo.com/cs/dz_helper/index.php
+
+淘宝偏门手法:http://chinastudents.cn/post/3293.html
+
+增加二级域名: 在homekoo.com\sys\include\database.php -> homekoo.com\setting\setting.php  搜索 xiaoguotu
+转移指定表(库)(头部记录搜索表): 67(主数据库)->210(阿里云备份):解耦备份,降负载,增加系统独立正交生存能力,提升稳定性
+调整服务器数据库数据表地址地址:
+
+构建高并发高可用的电商平台架构实践:http://blog.csdn.net/yangbutao/article/details/12242441
+电商技术解密：电商网站会存在哪些安全隐患:http://www.woshipm.com/pd/470322.html
+从零开始 如何打造一个诱人的电商网站:http://www.chinaz.com/web/2015/0906/442978.shtml
+php的安全问题:https://www.cnblogs.com/xinghun/p/5660846.html
+
+服务器类:class_dbsys_pc210.php
+服务表类:class_new_search_detail_record		432万 2017-12-15  2016-9-26   正在使用 (搜索记录)
+
+新建redis缓存机制
+class._redis.php(redis总类)
+redis_config.php(原数据库总类:默认67 homekoo)
+weixin_redis_config.php(微信redis类)
+
+class._sppc_redis.php(新搭建尚品redis总类)
+sppc_redis_config.php(新搭建尚品redis总类控制文件)
+
+后台服务器加新域名guanjiasys.homekoo.com目前是指向239
+
+new_search_chai_record 645万 2016-12-01  2012-09-19   (搜索name)
+new_search_tongji_zhuti_article_record 400万 2015-12-17 2012-12-19  搜索(文章)
+new_search_tongji_zhuti_record 998万 2017-12-16 2012-12-19 搜索(主题)
+
+Linux 命令搜索：http://man.linuxde.net/
+Linux常用命令大全 https://www.cnblogs.com/yjd_hycf_space/p/7730690.html
+
+JS 调试输出(控制台输出);//echo("<script>console.log('".$filename."');</script>");
+尚品数据表-数据库-服务器关系:DB_CONFIG.php
+mysql上百万数据表的优化:https://zhidao.baidu.com/question/1831461569535027660.html?qbl=relate_question_0&word=mysql%201%C3%EB%D6%D3%BF%C9%D2%D4%B2%FA%D1%B6
+图片压缩技术:https://tinypng.com/
+流程图(思维导图)软件:ProcessOn.com
+复杂多样的前端插件: echarts  kibana
+
+百度文库:先登陆该网址 => 输入账号密码,下载链接
+https://wenkubao.cc/   byfcu   6989
+
+查看所有表说明;http://sys.homekoo.com/sys/all_table_list.php    taocan- shenpi_type  is_shangxian
+http://www.homekoo.com/zhixiao/cuxiao/?from=seoztnews
+常用蜘蛛(搜索引擎)名称:	https://yq.aliyun.com/ziliao/16346
+蜘蛛搜索引擎(robots.txt)写法与语法:https://blog.csdn.net/for023/article/details/23258139
+人机验证文档(防攻击):https://luosimao.com/docs/api/56
+禁止IP访问 :http://www.jb51.net/article/52861.htm
+快递收费标准:https://www.wenjiwu.com/doc/uxlfni.html
+重置磁盘分区与格式化:https://www.homekoo.com/gdt/jiajubj/index.php
+锂电池修复技术:https://jingyan.baidu.com/album/0eb457e5d1bb8a03f0a9057e.html?picindex=3
+
+按键精灵学习(内存):https://blog.csdn.net/aasmfox/article/details/53693071
+按键精灵各版本下载 https://www.wandoujia.com/apps/com.cyjh.mobileanjian/history
+
+骨干培训系统:
+http://ehome.homekoo.com/hujiao_jifenmingxi.php  骨干培训系统地址
+http://ehome.homekoo.com/hujiao_leader_admin.php
+backbone_division:分部部门表
+week_score:周计划表 
+month_score:月计划
+leader_user:人物关系表
+backbone_user:用户表
+week_score_zhuguan:主管周计划表
+罗丹	luodan  a00000 
+曾明宇		zmy		a00000 
+周会琪 会员:zhouhuiqi  123456a
+王佳炳 会员:wangjiabing	a730621
+张荣洁 主管：zhongrongjie	密码：123456
+何嘉雯 主管：hejiawen	密码：a12345
+周春娇 主管:zhouchunjiao zhou123
+彭乐宏 经理:pengleheng peng123 只能对本部门骨干进行评分(division)
+
+TQ登陆网址:http://vip.homekoo.com/vip/index.do
+TQ账号：newhomekoo，密码：xjzxdgtq2017
+
+http://bbs.tp-shop.cn/	程序员日常交流
+程序员的聊天记录:
+https://mp.weixin.qq.com/s?__biz=MzU0OTUwNTEzOQ==&mid=2247483762&idx=1&sn=9b3a30a0150fafee8d426a72b5ba6b30&chksm=fbaf906eccd819782493653a2d6ccbf528abee2d71de63e7e71d0551cf388036a4cee706ba1f&mpshare=1&scene=23&srcid=12094XnAR7uCs6OxRf94R620#rd
+
+添加板材:后台系统->材料管理
+添加风格:常用后台常量数组添加
+
+新居网域名(备用域名)
+wy100.com
+yfyun.net
+homekoocdn.com
+xjzz100.com
+spzphomekoo.com
+homkoo.cn
+homkoo.com
+xjhomekoo.com
+gghomekoo.com
+jzhomekoo.com
+wxhomekoo.com
+pyqhomekoo.com
+ywthomekoo.com
+shhomekoo.com
+zzhomekoo.com
+weiyi6.com
+wywy6.com
+homekoo.com
+spzp.com
+wayes.cn
+yfway.com
+72home.com
+yfcad.com
+
+redis学习笔记 http://note.youdao.com/noteshare?id=c4b3bdddf26aebe14bc7d3adea5bfc8d   
+大型网站之网站静态化（综合篇）:http://blog.csdn.net/hudashi/article/details/51063079
+静态化与伪静态(域名路径重写规则):https://www.cnblogs.com/caoruiy/p/4698938.html 
+php导出execl文档技术:poi技术
+消息队列及常见消息队列介绍:http://baijiahao.baidu.com/s?id=1579988943735023087&wfr=spider&for=pc
+						   https://www.cnblogs.com/edisonchou/p/3825682.html
+
+https://wenku.baidu.com/view/e2c13a5d6d85ec3a87c24028915f804d2a168710.html
+我觉得无论是谁都需要不断的向别人学习,看见更多不一样的世界,体验不一样的生活习惯
+
+夜访 北京被清退的 京三村 =》知乎
+http://bbs.fengniao.com/forum/10312546_4.html
+
+当乐后台推广渠道(充值):https://qudao.d.cn/
+账号:101144
+密码:362199
+雷电模拟器诊模拟器信息:http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=12873&extra=page%3D1
+
+系统诊断工具	DXDIAG
+手机CPU性能天梯图 http://www.mydrivers.com/zhuanti/tianti/01/
+花火CPU天梯图2017年7月	http://www.huahuo.com/changshi/diannaocs/2017-07-18/37058.html
+桌面cpu天梯图:http://www.mydrivers.com/zhuanti/tianti/cpu/
+桌面显卡天梯图:http://www.mydrivers.com/zhuanti/tianti/gpu/
+CPU天梯排名(分数图):http://itianti.sinaapp.com/index.php/cpu
+现显示服务器配置信息：phpinfo();
+咸鱼pc版本(搜索):https://s.2.taobao.com/list/list.htm?q=%E7%94%B5%E8%84%91%E6%B5%8B%E8%AF%95%E5%8D%A1&search_type=item&_input_charset=utf8&divisionId=440100
+咸鱼纠纷处理；https://www.zhihu.com/question/27167367
+咸鱼卖家建议；http://www.360doc.com/content/17/1025/12/38971141_697970157.shtml
+
+硬盘坏道屏蔽与处理：https://www.zhihu.com/question/20544968
+理想与现实https://baijiahao.baidu.com/s?id=1562653067208603&wfr=spider&for=pc
+python学习资料:https://pan.baidu.com/s/1OsfYARGcnWD7k_MNFZo1AQ
+番号下载地址  https://www.xiaicili.cc/main-search-kw-GS-067.html
+
+安卓模拟器多开优化:http://www.xyaz.cn/forum.php?mod=viewthread&tid=15867&fromuid=57
+模拟器开启VT技术:http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=1776&extra=
+Windows XP服务详解;http://blog.csdn.net/wellsub/article/details/1438055
+网易mumu(手游模拟器):http://mumu.163.com/help/
+Windows7服务详解大全:https://wenku.baidu.com/view/7e4c264479563c1ec4da7143.html
+win7快捷键大全:https://jingyan.baidu.com/article/1612d500423cece20e1eee04.html
+Windows7个人服务详解及优化:http://www.windows7en.com/Win7/21299.html
+【经验分享】我是如何用洋垃圾做到15开的:http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=12145&highlight=%E7%BB%8F%E9%AA%8C
+我的挂机历程1--初始化环境:http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=5713&fromuid=776
+查看电脑配置方法:http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=12873&extra=page%3D1
+win系统安装：http://www.windows7en.com/jiaocheng/27406.html
+使用模拟器玩游戏时卡顿、闪退如何解决？：http://bbs.ldmnq.com/forum.php?mod=viewthread&tid=8568&page=1&extra=#pid16372
+外挂跟封包的区别:https://www.zhihu.com/question/32291769
+揭秘游戏检测工作室的常规手段 http://www.wghai.net/thread-7880-1-1.html
+教你如何编写游戏外挂 https://blog.csdn.net/Conquer20/article/details/937712
+找内存基址(内存挂教程):http://blog.csdn.net/aasmfox/article/details/53693071
+游戏工作室的IP问题: http://www.zywjw.com/post/3016.html
+谈网游工作室封号，用排除法巧妙避免 http://www.nbegame.com/post/1544.html
+谈逐渐产业化的游戏工作室行业:http://www.nbegame.com/post/2034.html
+显卡设置优化:https://jingyan.baidu.com/album/0bc808fc504eb91bd485b90e.html?picindex=1
+显卡提高性能:http://www.paopaoche.net/jiaocheng/54660.html
+window重装系统:http://chongzhuang.windowszj.com/
+电脑优化:http://baijiahao.baidu.com/s?id=1571759917563821&wfr=spider&for=pc
+win7 10大优化技巧	http://www.xitongcheng.com/jiaocheng/win7_article_11205.html
+win7文本方式一键优化 http://www.xitongcheng.com/jiaocheng/win7_article_38500.html
+易语言学习资料：https://wenku.baidu.com/view/7c34b6d076a20029bd642db2.html?pn=101
+模拟器技术:http://bbs.nga.cn/read.php?tid=10961958&forder_by=postdatedesc&rand=389
+机关生存手册：谈一谈如何混机关: http://bbs.tianya.cn/post-188-678092-1.shtml   
+回顾三十年历史进程，看清中国未来房价趋势！ http://www.360doc.com/content/17/1204/20/39305448_709932317.shtml
+NoSQL | Redis、Memcache、MongoDB特点、区别以及应用场景 https://blog.csdn.net/qq_40852784/article/details/79697820
+网络抓包封包软件下载地址 http://www.onlinedown.net/soft/971201.htm 
+分辨率，尺寸，dpi换算   https://blog.csdn.net/wawxf2008/article/details/47379577
+腾讯在线文档 https://docs.qq.com/sheet/DV3JtcWxuRFNaWUll?opendocxfrom=admin&ADUIN=1137078697&ADSESSION=1545639805&ADTAG=CLIENT.QQ.5575_.0&ADPUBNO=26809&tab=BB08J2
+从0开始学模拟挂(一)--找内存基址，包含原理 https://blog.csdn.net/asciil/article/details/6991386
+电脑电源线路 https://zhidao.baidu.com/question/567059908.html
+
+1、对现有的市场与大电商平台进行数据分析,明确市场缺乏什么,我们有什么,进而延伸到,怎么跟其他的同类产品打造出优势,体现产品的差异化；
+2、向本公司的各个部门收取书面资料,充分理解各个部门的想法,综合进行考虑,听取不同的部门讲解要点从而准确理解本公司的业务重点之所在；
+3、从供应链与商品渠道进行分析,如物流体验、商品丰富度、商品竞争力、备货能力、运营能力、以及平台的投入问题；
+4、做电商，用户的核心需求是购物，有没有——有没有货，贵不贵——价格是否为全网最低价，好不好——是不是正品，快不快——物流体验，购物体验大于网站本身的体验，设计APP端口时应该首要考虑用户的购物流动线如何，如何陈列店铺、商品，合理分配商品、商铺曝光的位置。
+5、分析大数据端口，明确目标以哪些入口入手，比如移动端跟PC端之间的选择,以最80%的力量做核心20%的业务,集中精力造势;
+
+怎么才能搭建一个完善的电商平台?
+因为 有大约80%的商品，只占到20%的销售额，这块商品没有必要自己花时间和精力去做。因为通过平台做品类扩张会更迅速，特别是对一些长尾
+商品，自营商品的扩张太耗费精力和财力。就像IOS系统，有可能的话，一定是apple自己的app品质更好，但apple也不可能开发出所有的app,所
+以电商也要做开放平台，确保大家可以在自己的网站买到所有的东西。自己专心做好那占到80%销售额的20%品类商品。
+
+技术部要准备什么?
+
+分为5大块来实现:
+1:以空间换时间(提升购物体验)
+2:并行与分布式计算(提升数据处理能力)
+3:多维度的可用(提高系统后期的兼容性)
+4:伸缩(适用不同场景下的需求)
+5:优化资源利用(集中精力,主攻重点业务推进)
+
+1:电商最重要的就是购物体验,那么必然要着重对速度方面进行倾斜,以空间换时间
+(1);多级缓存，静态化
+客户端页面缓存;(设置页面更新标记,server不返回body，客户端可以继续用cache，减少流量)
+反向代理缓存
+应用端的缓存(memcache)
+内存数据库
+Buffer、cache机制（数据库，中间件等）
+
+(2):索引
+哈希、B树、倒排、bitmap
+哈希索引适合综合数组的寻址和链表的插入特性，可以实现数据的快速存取。
+B树索引适合于查询为主导的场景，避免多次的IO，提高查询的效率。
+倒排索引实现单词到文档映射关系的最佳实现方式和最有效的索引结构，广泛用在搜索领域。
+Bitmap是一种非常简洁快速的数据结构，他能同时使存储空间和速度最优化（而不必空间换时间），适合于海量数据的的计算场景。
+
+2:并行与分布式计算
+(1)任务切分、分而治之(MR)
+在大规模的数据中，数据存在一定的局部性的特征，利用局部性的原理将海量数据计算的问题分而治之。
+MR模型是无共享的架构，数据集分布至各个节点。处理时，每个节点就近读取本地存储的数据处理(map)，将处理后的数据进行合
+并(combine)、排序(shuffle and sort)后再分发(至reduce节点)，避免了大量数据的传输，提高了处理效率。
+
+(2):多进程、多线程并行执行(MPP)
+并行计算（Parallel Computing）是指同时使用多种计算资源解决计算问题的过程，是提高计算机系统计算速度和处理能力的一种有效手段。它的基本思想是用多个处理器/进程/线程来协同求解同一问题，即将被求解的问题分解成若干个部分，各部分均由一个独立的处理机来并行计算。
+和MR的区别在于，它是基于问题分解的，而不是基于数据分解。
+
+3;多维度的可用
+(1):负载均衡、容灾、备份
+随着平台并发量的增大，需要扩容节点进行集群，利用负载均衡设备进行请求的分发；负载均衡设备通常在提供负载均衡的同时，也提供失效检测功能；同时为了提高可用性，需要有容灾备份，以防止节点宕机失效带来的不可用问题；备份有在线的和离线备份，可以根据失效性要求的不同，进行选择不同的备份策略。
+
+(2)读写分离
+读写分离是对数据库来讲的，随着系统并发量的增大，提高数据访问可用性的一个重要手段就是写数据和读数据进行分离；当然在读写分离的同时，需要关注数据的一致性问题；对于一致性的问题，在分布式的系统CAP定量中，更多的关注于可用性。
+
+(3)依赖关系
+平台中各个模块之间的关系尽量是低耦合的，可以通过相关的消息组件进行交互，能异步则异步，分清楚数据流转的主流程和副流程，主副是异步的，比如记录日志可以是异步操作的，增加整个系统的可用性。
+当然在异步处理中，为了确保数据得到接收或者处理，往往需要确认机制(confirm、ack)。
+但是有些场景中，虽然请求已经得到处理，但是因其他原因(比如网络不稳定)，确认消息没有返回，那么这种情况下需要进行请求的重发，对请求的处理设计因重发因素需要考虑幂等性。
+
+(4)监控
+监控也是提高整个平台可用性的一个重要手段，多平台进行多个维度的监控；模块在运行时候是透明的，以达到运行期白盒化。
+
+4:伸缩
+(1):拆分
+拆分包括对业务的拆分和对数据库的拆分。
+系统的资源总是有限的，一段比较长的业务执行如果是一竿子执行的方式，在大量并发的操作下，这种阻塞的方式，无法有效的及时释放资源给其他进程执行，这样系统的吞吐量不高。
+需要把业务进行逻辑的分段，采用异步非阻塞的方式，提高系统的吞吐量。
+随着数据量和并发量的增加，读写分离不能满足系统并发性能的要求，需要对数据进行切分，包括对数据进行分库和分表。这种分库分表的方式，需要增加对数据的路由逻辑支持。
+
+(2)无状态
+对于系统的伸缩性而言，模块最好是无状态的，通过增加节点就可以提高整个的吞吐量。
+
+5:优化资源利用
+(1);系统容量有限
+系统的容量是有限的，承受的并发量也是有限的，在架构设计时，一定需要考虑流量的控制，防止因意外攻击或者瞬时并发量的冲击导致系统崩溃。在设计时增加流控的措施，可考虑对请求进行排队，超出预期的范围，可以进行告警或者丢弃。
+
+(2):原子操作与并发控制
+对于共享资源的访问，为了防止冲突，需要进行并发的控制，同时有些交易需要有事务性来保证交易的一致性，所以在交易系统的设计时，需考虑原子操作和并发控制。
+保证并发控制一些常用高性能手段有，乐观锁、Latch、mutex、写时复制、CAS等；多版本的并发控制MVCC通常是保证一致性的重要手段，这个在数据库的设计中经常会用到。
+
+(3)基于逻辑的不同，采取不一样的策略
+平台中业务逻辑存在不同的类型，有计算复杂型的，有消耗IO型的，同时就同一种类型而言，不同的业务逻辑消耗的资源数量也是不一样的，这就需要针对不同的逻辑采取不同的策略。
+针对IO型的，可以采取基于事件驱动的异步非阻塞的方式，单线程方式可以减少线程的切换引起的开销，或者在多线程的情况下采取自旋spin的方式，减少对线程的切换(比如oracle latch设计)；对于计算型的，充分利用多线程进行操作。
+同一类型的调用方式，不同的业务进行合适的资源分配，设置不同的计算节点数量或者线程数量，对业务进行分流，优先执行优先级别高的业务。
+
+(4):容错隔离
+系统的有些业务模块在出现错误时，为了减少并发下对正常请求的处理的影响，有时候需要考虑对这些异常状态的请求进行单独渠道的处理，甚至暂时自动禁止这些异常的业务模块。
+有些请求的失败可能是偶然的暂时的失败(比如网络不稳定)，需要进行请求重试的考虑。
+
+(5)资源释放
+系统的资源是有限的，在使用资源时，一定要在最后释放资源，无论是请求走的是正常路径还是异常的路径，以便于资源的及时回收，供其他请求使用。
+在设计通信的架构时，往往需要考虑超时的控制。
+
+怎么才能搭建一个完善的电商平台?
+
+因为 有大约80%的商品，只占到20%的销售额，这块商品没有必要自己花时间和精力去做。因为通过平台做品类扩张会更迅速，特别是对一些长尾
+商品，自营商品的扩张太耗费精力和财力。就像IOS系统，有可能的话，一定是apple自己的app品质更好，但apple也不可能开发出所有的app,所
+以电商也要做开放平台，确保大家可以在自己的网站买到所有的东西。自己专心做好那占到80%销售额的20%品类商品。
+
+1；报名流程
+用户报名时，（1）首先将记录插入到本地xml文件，（2）同步插入到本地服务器（3）插入到67数据库报名临时表,定时同步反馈到67报名主表。
+
+2；主从同步流程
+（1）首先从主库210阿里云服务器同步到156 189服务器，然后同步到51 227 4 158 16 75 35服务器
+（2）从156同步到 56 81 74 31服务器，从189同步到 90 131 236 223服务器
+（3）常用做好常用数据表解耦操作。
+
+3；数据库辅助机制流程
+当用户访问时（1）负载均衡将访问较均匀分布到尚品前台7台阿里云服务器;
+(2)判断是否有静态文件,或者静态文件是否有效
+(3)是否存在redis,memche缓存结果集
+(4)将查询数据库的访问随机分布到 10个套餐主表;
+
+我已经对本机硬件序列号、MAC地址、局域网IP等信息都做了处理，那么服务器端能够检测的只能是公网IP了，应该是通过类似于对网吧IP段做白名单，个人的同一个IP如果同时登录的客户端过多的话，就会进入封停判定。我让A去尝试同IP登录上限，同时开始考虑应对方案。
+
+写外挂必看感言：
+http://www.nbegame.com/post/764.html
+
+CE
+通过我那朋友，我学到了当时一些比较“时髦”的内存基址搜索方法，有了基址，剩下的就是用易语言做成EXE更方便的使用这些基址了（做成EXE后就是所谓的外挂了）很快，我做出了第一个真正意义上的外挂，代码量很少，一个星期就做完了。不但功能叼，而且还能卖得很高的价格！
+
+期间接触到了C#和lua，用C#和lua都各写了一个简单的外挂。
+
+API：GetAsyncKeyState，
+C#、Unity
+易语言
+lua外挂 unity
+
+94	 X5675 @ 3.07GHz		12917	
+77 E5-2650  C2  原装正品 正式版 450      15279
+   E5 2651  v2                  780      16487
+63 E5-2660  C2                  590 568  172280 		   
+60 E5-2665  C2 		            620      17643
+58 E5-2670  C2  原装正品 正式版 760      18472
+57 E5-2680  C2  原装正品 正式版 850      18544
+
+53 E5-2660  V2  原装正品 正式版 930 890   18670
+38 E5-2670  V2  原装正品 正式版 1080      22330
+30 E5-2680  V2  原装正品 正式版 1100 1068 23249
+
+45	E5-2650 v3 @ 2.30GHz		20597	
+27	E5-2660 v3 @ 2.60GHz		23388
+36	E5-2670 v3 @ 2.50GHz		22330
+15	E5-2680 v3 @ 2.50GHz		25352
+
+
+链接：https://pan.baidu.com/s/1mGrB8ulW5ayOdQDglCvSvw 
+提取码：4wsj 
+
+链接：https://pan.baidu.com/s/1SigGwKyHJ8C8Aizd2NsmEg 
+提取码：ves4 
+
+
+《芝麻街》
+
+
+FTP账号：  
+请输入你的账号
+FTP密码：  
+请输入你的密码
+搜索路径：
+刷新
+搜索一层目录
+全选    选择
+路径：
+
+文件:W:\html\mjjz_zx\bigHome\pcg.png 文件夹:W:\html\mjjz_zx\bigHome\
+FTP地址：
+大家居  全选
+121.9.227.20
+121.9.227.21
+121.9.242.234
+121.9.242.241
+120.55.13.113
+阿里云  全选
+114.215.241.156
+112.124.114.75
+122.13.168.200
+114.215.242.31
+119.145.130.66
+115.29.231.4
+121.199.58.36
+114.215.207.90
+120.26.94.81
+112.124.127.189
+120.26.94.74
+112.124.124.56
+115.29.13.51
+114.215.201.131
+115.29.232.16
+115.29.14.158
+114.215.199.223
+114.215.197.236
+115.29.204.227
+121.199.58.35
+47.97.73.178
+47.97.73.198
+47.97.73.184
+微信主号  全选
+121.9.242.4
+119.145.130.77
+121.9.242.42
+121.9.245.226
+
+121.9.245.227
+121.9.242.154
+121.9.245.194
+119.145.130.76
+阿里云微信前端  全选
+47.97.73.202
+47.97.73.178
+47.97.73.198
+47.97.73.184
+后台系统  全选
+121.9.245.239
+121.9.242.5
+121.9.242.41
+121.9.242.244
+121.9.242.153
+121.9.245.206
+121.9.242.156
+上传
+
+
+
+
+已帮助2个人解决问题了
+
+3dmax对电脑还是有一定的要求的，所有小编推荐以下配置：
+
+1、CPU：3dmax要靠cpu进行渲染的。也就是说cpu的核心越多渲染速度越快。经济又实惠的E3 1231 v23是首选。
+
+2、散热器：玄冰400或铁塔3豪华。
+
+3、显卡：不玩游戏就用丽台k620（专业级绘图卡），兼顾游戏和作图，可以用GTX960或者更高级的GTX970.
+
+4、主板：因为E3这cpu没办法超频，所以很自然的选择b85 芯片组的主板，出于散热、走线各方面考虑ATX大板优先考虑。
+
+5、内存：ddr3 1600 8g基本足够，预算足够可以升级到16g，两根条子组双通道效果最佳。
+
+6、硬盘：7200转1TB希捷或者西数的机械硬盘，预算充足可以加一个120g固态硬盘提升电脑读写速度。
+
+7、机箱：（ATX中塔机箱）电源（额定450w以上）合适即可，外观根据个人喜好，光驱可有可无。
+
+
+开门：
+1登录（检测钻石符号出来没，没出来继续按返回键）
+2造一个步兵（等待10秒）
+3检测声望超过9999（不含）了没，没到继续这个循环
+4退出
+
+关门：
+1登号
+2慈善：进去点击慈善，（粮食点击召集人口,这个功能不是必须)
+3，检测声望低于10000万了没，没有低就解兵
+4，退出
