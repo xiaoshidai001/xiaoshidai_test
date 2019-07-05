@@ -14,9 +14,176 @@ folders:
     - map: D:\Code\admin
       to: /home/vagrant/code
 
+ipconfig/all : 查看ip详细地址
+tracert：跟踪ip访问路径：示例： cmd -> tracert www.homekoo.com 
+
+这个 SQL 问题绝对能让你对 MySQL 的理解更进一步！ https://learnku.com/articles/29168
+
+随笔分类 - PHP:https://www.cnblogs.com/thinksasa/category/421330.html
+
+composer install   composer update  www.cnblogs.com...   PostgreSQL  鸟哥的Linux私房菜
+
+访问 700万 单独访客 30多万 报名 3000 成交200 日业绩=2000万， 年业绩 75亿    
+常用表： 
+
+dc_sc_collect_hour_site_complex  采集小时（购物车/计数）流量表
+dc_sc_collect_days_site_complex  采集天（购物车/计数）流量表
+dc_collect_days_site_complex     采集天访问pv uv 流量表
+dc_collect_days_product_complex  采集天产品 加购表 
+dc_collect_hour_site_complex     采集小时网站流量表
+dc_collect_hour_product_complex  采集小时产品表
+dc_collect_hour_lang_site_complex 采集小时购买记录表
+dc_collect_month_site_complex     采集月网站流量表
+dc_collect_month_product_complex  采集月产品表
+
+make it hanpen
+
+	$data =  date('Y-m-d H:i:s');
+	
+	echo date_default_timezone_get();
+	
+	date_default_timezone_set('Etc/GMT-3');
+
+
+棒谷职位分析：http://172.16.4.2/?nocache=1&fs=2019-Q2&dept=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0
+棒谷运维平台：https://ops.banggood.com/mysql_tools/permissions/info?msg=%E7%94%B3%E8%AF%B7%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F%EF%BC%81&nav=nav8
+
+PRC 
+
+make is happan
+
+我记得前几年的时候，ecshop,shopnc都挺火的   discuz当
+ 
+
+基准点： 诚信
+原则： 一客户为中心
+四大要素： 敬业担当 团队共赢 拥抱变化 追求卓越
+
+考核原则：长期导向原则 正向激励原则 公开公平公正原则
+考核周期及形式： 季度考核 线上考核
+
+普通员工12分：
+
+
+勤奋敬业 勇于担当
+共享共担 良性沟通
+拥抱变化 勇于创新
+专业敬业 精益求精
+为客户创造持续价值
+城实廉洁 言行坦荡
+
+4 c
+8 c
+15abcd
+
+20 abc
+
+
+整站统计报表： 
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=config&act=getSitePort&is_api=1&domain=1&
+
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=display&act=getLine&is_api=1&domain=1&&field=uv&site_port=&start_date=2019-7-5&end_date=2019-7-5&contrast=2&contrast_sd=&contrast_ed=&upup=true
+
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=display&act=getData&is_api=1&domain=1&&site_port=&start_date=2019-7-5&end_date=2019-7-5&contrast=2&contrast_sd=&contrast_ed=&upup=1&columns%5B%5D=sess&columns%5B%5D=basket&columns%5B%5D=wish&columns%5B%5D=vpc&columns%5B%5D=newCustomersPrice&columns%5B%5D=oldCustomersPrice&columns%5B%5D=per_order_price&columns%5B%5D=quantity_per_transaction&columns%5B%5D=new_quantity_per_transaction&columns%5B%5D=old_quantity_per_transaction&columns%5B%5D=avgStayTime&columns%5B%5D=payNumber&columns%5B%5D=pendingNumber&columns%5B%5D=bounce&page=1&page_size=10
+
+
+订单综合统计：
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=config&act=getSitePort&is_api=1&domain=1&
+
+Request URL: https://bibeta.banggood.com/index.php?com=sales&t=display&act=getData&is_api=1&domain=1&&time_type=1&is_shipfee=0&is_dabao=0&is_new_customers=0&is_import=0&is_middle_east=0&tariff=0&insurance=0&is_test=&active_class=&country_code=&ship_country_code=&is_freeshipping=0&is_phone_source_search=0&site_port=&is_snatch=1&points=0&upup=1&page=1&page_size=10
+
+产品综合统计：
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=config&act=getSitePort&is_api=1&domain=1&
+
+Request URL: https://bibeta.banggood.com/index.php?com=product&t=allJson&act=total&is_api=1&domain=1&&group=products_id&cat_id=0&site=&start_date=2019-6-20&end_date=2019-7-4&pxFlag=0&sjFlag=0&is_dabao=0&is_stockout=0&is_instock=0&review_flag=0&preorder=0&evaluation=&baokuan=&supply_type=&shoot_type=&model_effect=&model_name=&is_new=&country_code_arr=&is_core_sku=0&core_start_time=&core_end_time=&sale_status%5B%5D=6&sale_status%5B%5D=7&sale_status%5B%5D=8&site_port=&sale_area=&lowact_status=0&tags=&sort=payNumber&order=desc&upup=true
+
+Request URL: https://bibeta.banggood.com/index.php?com=product&t=allJson&is_api=1&domain=1&&act=explain&group=products_id&cat_id=0&site=&start_date=2019-6-20&end_date=2019-7-4&pxFlag=0&sjFlag=0&is_dabao=0&is_stockout=0&is_instock=0&review_flag=0&preorder=0&evaluation=&baokuan=&supply_type=&shoot_type=&model_effect=&model_name=&is_new=&country_code_arr=&is_core_sku=0&core_start_time=&core_end_time=&sale_status%5B%5D=6&sale_status%5B%5D=7&sale_status%5B%5D=8&site_port=&sale_area=&lowact_status=0&tags=&sort=payNumber&order=desc&upup=1&page=1&page_size=50
+
+Request URL: https://bibeta.banggood.com/index.php?com=product&t=allJson&is_api=1&domain=1&&group=products_id&cat_id=0&site=&start_date=2019-6-20&end_date=2019-7-4&pxFlag=0&sjFlag=0&is_dabao=0&is_stockout=0&is_instock=0&review_flag=0&preorder=0&evaluation=&baokuan=&supply_type=&shoot_type=&model_effect=&model_name=&is_new=&country_code_arr=&is_core_sku=0&core_start_time=&core_end_time=&sale_status%5B%5D=6&sale_status%5B%5D=7&sale_status%5B%5D=8&site_port=&sale_area=&lowact_status=0&tags=&sort=payNumber&order=desc&upup=1&page=1&page_size=50
+
+仓库订单统计：
+Request URL: https://bibeta.banggood.com/index.php?com=sales&t=warehouseOrder&act=order&is_api=1&domain=1&&start_date=2019-7-4&end_date=2019-7-4&site=&changeIndex=2&page=1&page_size=10
+
+UTMID综合统计：
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=config&act=getSitePort&is_api=1&domain=1&
+
+Request URL: https://bibeta.banggood.com/index.php?com=source&t=utmid&act=getChart&is_api=1&domain=1&&field%5B%5D=pv_1&index=pv&start_date=2019-6-28&end_date=2019-7-4&dsc=1&group=add_time&site_port=&contrast=current%2Clatest&compare_start_date=&compare_end_date=&upup=true
+
+Request URL: https://bibeta.banggood.com/index.php?com=source&t=utmid&act=getResult&is_api=1&domain=1&&start_date=2019-6-28&end_date=2019-7-4&dsc=1&group=add_time%2Cutmid&site_port=&contrast=1&compare_start_date=&compare_end_date=&upup=1&page=1&page_size=10
+缺货邮件统计：
+
+Request URL: https://bibeta.banggood.com/index.php?com=sales&t=stockout&act=getLine&is_api=1&domain=1&&field%5B%5D=email_number&contrast=1&starttime=2019-6-28&endtime=2019-7-4&contrast_sd=&contrast_ed=
+
+Request URL: https://bibeta.banggood.com/index.php?com=sales&t=stockout&act=getData&is_api=1&domain=1&&starttime=2019-6-28&endtime=2019-7-4&contrast=1&contrast_sd=&contrast_ed=&page=1&page_size=10
+
+
+https://cas2.banggood.cn/cas/login?
+
+
+datacube_SID=t501vr0sd5ren376rrfvqbht23; 
+_dcLang=en-GB; _ga=GA1.2.536863869.1562309458;
+_gid=GA1.2.1977450317.1562309458;
+5335c1c046c48ea78bf0ab30561b6c93=9684514869267989ff8618b0efad6b15;
+_gat_gtag_UA_109028643_1=1;
+b30f4a63d70b3acd5383297d22fbeec2=9684514869267989ff8618b0efad6b15
+
+
+col getCol
+			one
+			getOne
+			row
+			getRow
+
+2.1 基于流行度的算法 推荐最热信息
+2.2 协同过滤算法 推荐与当前用户类型，并没有浏览的东西
+2.3 基于内容的算法 引入关坚持的权重（计算向量距离）
+2.4 基于模型的算法  对用户的特征信息进行 交叉赋值，使之对应某种 特殊属性；
+2.5 混合算法   根据各种计算综合计算出最近向量权重，综合考虑
+2.6 结果列表 对推荐的结果进行过滤 当推荐的内容里包含敏感词汇、涉及用户隐私的内容等等
+
+
+
+
+
+
+PHP需要借助Nginx和PHP-FPM（或类似的软件）来进行进程管理和连接池管理     弹性Kubernetes环境上配置多个PHP栈的痛苦
+
+查询数据库关键字：session  order > dc_orders  purchase dc_basket dc_session_action 
+缓存查询类：D:\work_git\dc\zc_core\banggood\refactor\pagequery\datacube\complex\site.php   
+常用控制器：D:\work_git\dc\applications\datacube\components\com_index
+常用缓存类：ZSession:   D:\work_git\dc\zc_core\system\session\session.php
+常用加载类：D:\work_git\dc\applications\datacube\models\mod_init\init.php:
+
+D:\work_git\dc\applications\datacube\models\mod_init\init.php:
+
+参谋权限比较高，不要给其他人开权限
+
+诚信-基准点
+一客户为中心 原则
+敬业担当 团队共赢 拥抱变化 追求卓越
+企业价值观： 团队共赢 拥抱变化 追求卓越 以客户为中心 诚信 敬业担当 
+
+ComplexPageQuerySite
+$this->Collect = PageQuery::getInstance('site', 'complex', $this->ZDB, 'datacube');
+
+	$this->table = 'dc_collect_hour_site_complex';
+			$this->basket = 'dc_collect_hour_product_complex';
+			$this->langTable = 'dc_collect_hour_lang_site_complex';
+
+
+
+crontab里面的days和 dcmonitor功能已经加上了错误日志跟踪的功能（一些功能我已经加上了）。
+用法参照
+函数：testZdebug()
+
+比较简单，在需要返回false或者错误信息的地方，加上这行：
+$this->ZDebug->addPoint("end",__FILE__, __LINE__);
+第一个参数是自定义你需要的错误信息。到时候再邮件提示的时候会通知具体哪一行出错的了
+
+关于辞职和面试的答疑解惑（含面试题分享）： https://www.cnblogs.com/shiyajian/p/11070649.html?tdsourcetag=s_pcqq_aiomsg
+
 常用的几个vagrant命令： https://www.cnblogs.com/think-a-lot/p/7754328.html
 常见web攻击总结 https://www.cnblogs.com/morethink/p/8734103.html
-
 
 Request URL: https://bibeta.banggood.com/index.php?
 
@@ -26,7 +193,82 @@ https://bibeta.banggood.com/#/datacube/index?myostoken=6169048a544896c6431284e4d
 
 D:\work_git\dc\applications\datacube\components\com_index
 
-kylin  Apache Spark   Apache Hadoop
+kylin  Apache Spark   Apache Hadoop   	swoole
+
+
+Request URL: https://bibeta.banggood.com/index.php?com=index&t=display&act=getData&is_api=1&domain=1&&site_port=&start_date=2019-7-4&end_date=2019-7-4&contrast=2&contrast_sd=&contrast_ed=&upup=1&columns%5B%5D=sess&columns%5B%5D=basket&columns%5B%5D=wish&columns%5B%5D=vpc&columns%5B%5D=newCustomersPrice&columns%5B%5D=oldCustomersPrice&columns%5B%5D=per_order_price&columns%5B%5D=quantity_per_transaction&columns%5B%5D=new_quantity_per_transaction&columns%5B%5D=old_quantity_per_transaction&columns%5B%5D=avgStayTime&columns%5B%5D=payNumber&columns%5B%5D=pendingNumber&columns%5B%5D=bounce&page=1&page_size=10
+Request Method: GET
+
+
+
+
+array(13) {
+  ["columns"]=>
+  array(14) {
+    [0]=>
+    string(4) "sess"
+    [1]=>
+    string(6) "basket"
+    [2]=>
+    string(4) "wish"
+    [3]=>
+    string(3) "vpc"
+    [4]=>
+    string(17) "newCustomersPrice"
+    [5]=>
+    string(17) "oldCustomersPrice"
+    [6]=>
+    string(15) "per_order_price"
+    [7]=>
+    string(24) "quantity_per_transaction"
+    [8]=>
+    string(28) "new_quantity_per_transaction"
+    [9]=>
+    string(28) "old_quantity_per_transaction"
+    [10]=>
+    string(11) "avgStayTime"
+    [11]=>
+    string(9) "payNumber"
+    [12]=>
+    string(13) "pendingNumber"
+    [13]=>
+    string(6) "bounce"
+  }
+  ["start_date"]=>
+  string(8) "2019-7-4"
+  ["end_date"]=>
+  string(8) "2019-7-4"
+  ["domain"]=>
+  string(1) "1"
+  ["site"]=>
+  array(0) {
+  }
+  ["site_port"]=>
+  string(0) ""
+  ["index"]=>
+  string(0) ""
+  ["form"]=>
+  string(0) ""
+  ["is_uv_unique"]=>
+  string(0) ""
+  ["contrast"]=>
+  int(2)
+  ["contrast_sd"]=>
+  string(0) ""
+  ["contrast_ed"]=>
+  string(0) ""
+  ["site_port_case"]=>
+  string(1758) "CASE WHEN site IN ('www.banggood.com','us.banggood.com','eu.banggood.com','ar.banggood.com','www.banggood.in','sea.banggood.com','usa.banggood.com','br.banggood.com','de.banggood.com','es.banggood.com','fr.banggood.com','it.banggood.com','uk.banggood.com','nl.banggood.com','ru.banggood.com','jp.banggood.com','pt.banggood.com','tr.banggood.com','wholesale.banggood.com')  THEN 'pc'  WHEN site IN ('m.banggood.com','pwa.banggood.com','ar-m.banggood.com','m.banggood.in','sea-m.banggood.com','usa-m.banggood.com','br-m.banggood.com','de-m.banggood.com','es-m.banggood.com','fr-m.banggood.com','it-m.banggood.com','uk-m.banggood.com','nl-m.banggood.com','ru-m.banggood.com','jp-m.banggood.com','pt-m.banggood.com','tr-m.banggood.com')  THEN 'm'  WHEN site IN ('android','androidapp.banggood.com','ar-androidapp.banggood.com','androidapp.banggood.in','sea-androidapp.banggood.com','usa-androidapp.banggood.com','br-androidapp.banggood.com','de-androidapp.banggood.com','es-androidapp.banggood.com','fr-androidapp.banggood.com','it-androidapp.banggood.com','uk-androidapp.banggood.com','nl-androidapp.banggood.com','ru-androidapp.banggood.com','jp-androidapp.banggood.com','pt-androidapp.banggood.com','tr-androidapp.banggood.com')  THEN 'android'  WHEN site IN ('ios','ios.banggood.com','ar-ios.banggood.com','ios.banggood.in','sea-ios.banggood.com','usa-ios.banggood.com','br-ios.banggood.com','de-ios.banggood.com','es-ios.banggood.com','fr-ios.banggood.com','it-ios.banggood.com','uk-ios.banggood.com','nl-ios.banggood.com','ru-ios.banggood.com','jp-ios.banggood.com','pt-ios.banggood.com','tr-ios.banggood.com')  THEN 'ios'  WHEN site IN ('android-aff.banggood.com')  THEN 'android-aff'  WHEN site IN ('ios-aff.banggood.com')  THEN 'ios-aff'  ELSE null END "
+}
+
+
+
+
+
+
+
+
+
 
 github phalcon  php-fpm  swoole实现原理，fast-cgi底层  两年半的经验如果会redis monogdb rabbitmq或者kafka ，搜索引擎sphinx 或者 es.要12K的话 还是很容易找到的.
 最流行的就是storm spark sql hadoop---- kafka python java R html(前几个大数据必备)
@@ -47,17 +289,6 @@ http：
 
 撸主 swoole，长短链接socket通信协议的，关于Nginx，fast-cgi层面的，关于数据库主从的 都会了吗  
 
-
-array(10) { ["start_date"]=> string(8) "2019-7-1" ["end_date"]=> string(8) "2019-7-1" ["domain"]=> string(1) "1" ["site"]=> array(0) { } ["field"]=> string(2) "uv" ["site_port"]=> string(0) "" ["index"]=> string(0) "" ["contrast"]=> int(2) ["contrast_sd"]=> string(0) "" ["contrast_ed"]=> string(0) "" }
-
-
-
-第三条 公司实行“单双休制”，具体作息时间为：
-（1）周一至周五上班时间为：09：00—12：00；13：30—18：00 （午休时
-间为 12:00—13:30，下午茶时间为 15:30-15:45）
-（2）单休：周六上班时间为：09：00—12：00；13：30—15：30 ，周日休
-息；双休：周六、日休息
-
 刘骏斌：xjssljb@163.com   363185889
 
 玩转Git入门篇：https://www.cnblogs.com/guanzhyan/p/8996489.html
@@ -69,20 +300,6 @@ Git客户端(TortoiseGit)基本使用详解:https://www.cnblogs.com/xuwenjin/p/8
 腾讯企业邮箱（https://exmail.qq.com/）：wangshaui3@banggood.com  密码Bg2018
 棒谷协同（https://erpv2.banggood.cn/）：wangshaui3@banggood.com  密码ws362...9
 
-
-查询数据库关键字：session  order > dc_orders  purchase dc_basket dc_session_action 
-缓存查询类：D:\work_git\dc\zc_core\banggood\refactor\pagequery\datacube\complex
-常用控制器：D:\work_git\dc\applications\datacube\components\com_index
-
-
-Request URL: https://bibeta.banggood.com/index.php?com=index&t=display&act=getLine&is_api=1&domain=1&&field=uv&site_port=&start_date=2019-6-28&end_date=2019-6-28&contrast=2&contrast_sd=&contrast_ed=&upup=true
-Request Method: GET
-Status Code: 200 OK
-Remote Address: 172.16.13.1:443
-Referrer Policy: no-referrer-when-downgrade
-
-小天神
-
 union all   范围 BETWEEN   》  <、<=、>=、>   》  in   》 or
 
 composer install : composer update  start   020-400-880-9985
@@ -92,14 +309,11 @@ select `id`,`subject`,(SUM(CASE WHEN `achievement` BETWEEN 60 AND 100 THEN 1 ELS
 select id,subject,(select COUNT(id) from `score_sheet` where achievement > 60 and subject=s.subject GROUP BY `subject`)/(select COUNT(id) from `score_sheet` 
 where subject=s.subject GROUP BY `subject`) from `score_sheet` s group by subject;
 
-SELECT SC.COURSE_NO,(SUM(CASE
-              WHEN CORE BETWEEN 60 AND 100 THEN
-              ELSE
-              END)/COUNT(*))*100||'%' 及格率
-FROM HAND_STUDENT_CORE SC
-GROUP BY SC.COURSE_NO
+(SUM(CASE WHEN CORE BETWEEN 60 AND 100 THEN ELSE END)/COUNT(*) )*100||'%' 及格率
 
-round(SUM(customer_number_7days) / SUM(customers), 4)*100  AS sevenOrderRate
+SUM( IF( 类别编号 =1, 支出金额, 0 ) ) AS 其它支出,
+
+round(SUM(customer_number_7days) / SUM(customers), 4)*100  AS sevenOrderRate , 'vpc' => '(CASE WHEN SUM(uv)>0 THEN SUM(pay_amount)/SUM(uv) ELSE 0 END) AS vpc'
 
 https://www.tapd.cn/
 https://myos.banggood.com/#/
@@ -124,13 +338,6 @@ https://myos.banggood.com/#/
 
 主要项目文件：D:\work_git\dc\applications\datacube\components\com_crontab
 项目入口文件：D:\work_git\dc\applications\datacube\index.php
-
-> git clone https://wangshuai@g.banggood.com/banggood/dc.git
-$ git remote add origin https://wangshuai@g.banggood.com/banggood/dc.git
-
-src="https://bi.banggood.com/#/datacube/index?myostoken=62cd98af34e15b8cc8b67fda62c0584c"
-
-
 
 mysql 缓存应用：https://www.cnblogs.com/eyesfree/p/7232559.html 
 Git下载安装及设置详细教程:https://www.jianshu.com/p/a152f82c5e4a
@@ -203,31 +410,14 @@ div弹窗： https://blog.csdn.net/weixin_37580235/article/details/82291028
 github（git代码托管平台）：https://github.com/  账号:xiaoshidai001 密码：abc362...26 邮箱：1137078697@qq.com
 banggood内网git： wangshuai 王帅  密码：ws362..9  邮箱：wangshuai3@banggood.com
 
-
-
-
 我的git库：https://github.com/xiaoshidai001/xiaoshidai_test
-综合技术交流： https://blog.csdn.net/ccg_201216323/article/details/56486036
 
-https://github.com/schacon/grit.git
-
+https://github.com/xiaoshidai001/xiaoshidai_test.git
 git clone git://github.com/xiaoshidai001/xiaoshidai_test.git
 
 GitHub 的分支创建与合并 https://www.cnblogs.com/horanly/p/6265182.html
 
 GitHub 的分支创建与合并 https://www.cnblogs.com/leilei0327/p/8688244.html
-
-
-$git clone git@github.com:username/myNCCL.git  
-      git://github.com/xiaoshidai001/xiaoshidai_test.git
-
-$git clone git@github.com/xiaoshidai001/xiaoshidai_test.git
-
-$git clone git@github.com:username/myNCCL.git 
-
-$git clone git://github.com/xiaoshidai001/xiaoshidai_test.git
-
-
 
 win10系统永久激活：https://baijiahao.baidu.com/s?id=1621144151536086381&wfr=spider&for=pc
 mysql的事务：https://www.cnblogs.com/ahaii/p/6214261.html
@@ -342,8 +532,6 @@ TP5框架完整学习笔记:https://www.jianshu.com/p/7dd18927dd9a
 TP5事物支持：https://www.kancloud.cn/thinkphp/thinkphp5_quickstart/478294
 TP5调试：use think\Db;	echo Db::table('table_name')->getLastSql();
 
-
-// 用git下载速度快
 使用vagrant一键部署本地php开发环境（一） https://blog.csdn.net/qq_39195042/article/details/82700277
 laraver5.8官方环境homestead 重量级环境搭建 https://laravelacademy.org/post/9530.html
 laraver5.8官方环境homestead搭建：https://learnku.com/docs/laravel/5.8/homestead/3882
@@ -378,45 +566,6 @@ svn地址：http://192.168.10.96/svn/p3/dev/trunk/Toutiao-Admin  账号：wangsh
 
 git教程：https://github.com/Zhangguoliu/learn-git/blob/master/learngit-note.md
 Homestead（laraver环境）安装：https://www.jianshu.com/p/ae9d1261bbd8
-
-https://www.cnblogs.com/gongyijie/p/8395105.html
-http://localhost/test.php
-
-composer config -g repo.packagist composer https://packagist.phpcomposer.com   
-
-虚拟机配置设置：
-##<VirtualHost *:80>
-##     ServerName www.testab.com
-##     DocumentRoot "E:/svn_work"
-##    <Directory "E:/svn_work"> 
-##         Options FollowSymLinks IncludesNOEXEC Indexes
-##         DirectoryIndex index.html index.htm index.php
-##         AllowOverride all 
-##         Order Deny,Allow 
-##         Allow from all 
-##         Require all granted
-##    </Directory>
-##</VirtualHost>
-
-<VirtualHost *:80>
-     ServerName www.testab.com
-     DocumentRoot "E:/svn_work"
-    <Directory  "E:/svn_work">
-        Options +Indexes +Includes +FollowSymLinks +MultiViews
-        AllowOverride All
-        Require local
-    </Directory>
-</VirtualHost>
-
-#D:\ test.php   DocumentRoot "C:/xampp/htdocs/php" 
-
-#<VirtualHost *:80> 
-#	DocumentRoot "C:/xampp/htdocs/php" 
-#	DocumentRoot "D:/xampp/htdocs/htdocs/test.php" 
-#	ServerName www.test.com 
-#	ErrorLog "logs/oneym.dev-error.log" 
-#	CustomLog "logs/oneym.dev-access.log" common 
-#</VirtualHost>
 
 查看所有端口占用情况： cmd netstat -ano | findstr 80
 window 下杀死所有nginx进程: taskkill /fi "imagename eq nginx.EXE" /f
